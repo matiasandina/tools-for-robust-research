@@ -2,18 +2,60 @@ project:
   type: website
 
 website:
-  title: "tools-for-robust-research"
-  navbar:
-    left:
+  page-navigation: true
+  title: "Tools for Robust Research"
+  site-url: "https://matiasandina.github.io/tools-for-robust-research"
+  repo-url: https://github.com/matiasandina/tools-for-robust-research
+  repo-actions: [edit, issue]
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-By Rebecca Saxe & Ashley Thomas, 2022"
+
+  sidebar:
+    logo: "images/T.png"
+    pinned: true
+    align: center
+    tools:
+      #- icon: globe
+      #  href: https://openscapes.org
+      #  text: "Openscapes.org"
+      - icon: github
+        href: https://github.com/matiasandina/tools-for-robust-research
+        text: "Site Repo"
+      #- icon: twitter
+      #  href: https://twitter.com/openscapes
+      #  text: "Openscapes Twitter"
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Welcome
+      - section: content/index.qmd
+        contents:
+          - content/week-01.qmd
+      #- learning-more.qmd
+      #- href: transition-from-rmarkdown.qmd
+      #  text: Transition from Rmd
+
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
     toc: true
+
+
+#format:
+#  html:
+#    theme: cosmo
+#    css: styles.css
+#    toc: true
 
 editor: visual
 
