@@ -1,5 +1,9 @@
 ---
 title: "Class Contents"
+listing:
+  contents: "week*.qmd"
+  type: default
+  image-placeholder: "images/T.png"
 editor: visual
 ---
 
