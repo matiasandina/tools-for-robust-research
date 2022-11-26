@@ -1,80 +1,45 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tools for Robust Research",
+    "objectID": "content/week-02.html",
+    "href": "content/week-02.html",
+    "title": "Week 2",
     "section": "",
-    "text": "Rebecca Saxe (she/hers), Instructor, Brain and Cognitive Sciences\nAshley Thomas (she/hers), co-Instructor, Center for Research in Equitable and Open Scholarship"
+    "text": "We want the data we collect to be used to make scientific advances. Ideally, we want to make and publish these discoveries ourselves. But eventually, there are many reasons to hope others will be able to use the data as well, in order to to aggregate into larger datasets, as foundations for new studies, and/or for new scientific purposes that never even occurred to us. This year, NIH and the White House have both mandated that all scientific data be shared openly at the time of publication. Yet many labs’ current practices don’t always support easy and responsible data sharing. \nIn your response paper describe, for example, specific examples of when and why data reuse is important for your science, something you learned from the readings you didn’t already know, and/or a personal experience you’ve had that really brought home the challenge of data sharing and management.\n\n\nFrank M (2022) Chapter 13 Project management Links to an external site.in Experimentology\nHenry T (2021) Data Management for Researchers: Three Tales Links to an external site. and Eight Principles of Good Data ManagementLinks to an external site.\nFinal NIH Policy for Data Management and SharingLinks to an external site. \n\n\n\nEhlers, M., & Lonsdorf, T. (2022). Translating FAIR data sharing guidelines to field specific actionables in 10 simple steps-towards a dynamically growing 'fear database'(FEAR BASE). Links to an external site. Preprint.\nWilkinson, MD, Dumontier, M, Aalbersberg, IJ, Appleton, G, Axton, M, Baak, A, Blomberg, N, Boiten, JW, da Silva Santos, LB, Bourne, PE and Bouwman, J. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific data, 3(1): 1–9. DOI: https://doi.org/10.1038/sdata.2016.18 Links to an external site.\nDowns, R. R. (2021). Improving Opportunities for New Value of Open Data: Assessing and Certifying Research Data Repositories. Links to an external site. Data Science Journal, 20(1).\nSoderberg, C. K. (2018). Using OSF to share data: A step-by-step guide Links to an external site.. Advances in Methods and Practices in Psychological Science, 1(1), 115-120.\nFerguson, A. R., Nielson, J. L., Cragin, M. H., Bandrowski, A. E., & Martone, M. E. (2014). Big data from small data: data-sharing in the’long tail’of neuroscience.Download Big data from small data: data-sharing in the’long tail’of neuroscience.Nature neuroscience, 17(11), 1442-1447.\nMarkiewicz, C. J., Gorgolewski, K. J., Feingold, F., Blair, R., Halchenko, Y. O., Miller, E., ... & Poldrack, R. (2021). The OpenNeuro resource for sharing of neuroscience data. Links to an external site. Elife, 10, e71774."
   },
   {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "Tools for Robust Research",
-    "section": "Course Description:",
-    "text": "Course Description:\nWe aspire to do science to make true discoveries, build cumulative knowledge through skeptical inquiry, and translate this knowledge into social goods like medicines, devices, or policies. Yet in reality, scientists have often failed to live up to these aspirations, because of bad habits and bad institutions. In the current moment, tremendous energy is being devoted across the cognitive and neuro-sciences to renewing our scientific practices. New tools are being developed, to improve credibility, facilitate collaboration, accelerate scientific discovery, and expedite translation of results. As institutions such as the NIH and EU research council are developing new policies requiring data management, accessibility and broader impacts, early career researchers must learn to fulfill these requirements."
+    "objectID": "content/week-02.html#the-tool",
+    "href": "content/week-02.html#the-tool",
+    "title": "Week 2",
+    "section": "The Tool",
+    "text": "The Tool\n\nPractical skills assignment.\n1. Find a private (not already publicly shared) dataset you have recently created or used, and evaluate it against the recommendations in Section 13.2 of Chapter 13 Project management Links to an external site., in Experimentology. Which recommendations are fulfilled? What needs work?\n2. Find the (meta)data standards and data repositories that are most relevant for your subfield.\n3. Identify a public dataset in your subfield. This could be a dataset of your own, or from your own lab, or a publicly shared dataset from another lab in your field. Give a basic description of the dataset in your response paper (who generated it, what kind of data, where is it publicly shared). Evaluate this dataset using the FAIR checklist Links to an external site..\n\nFindable: Which data search tools can find this dataset? How easy would it be to find? What repository is it stored in? How searchable is the repository? Can the data be cited?\nAccessible: Can the data be easily retrieved and downloaded? Are reasonable restrictions in place?\nInteroperable: Do the data and metadata conform to recognized standards in this discipline? How good are those standards?\nReusable: Is there sufficient information to support data interpretation and reuse? \n\n\n\nUseful links and resources\nA short course on how to evaluate the FAIRness of data.Links to an external site.\nA graphical introduction to Tidy data, in a twitter threadLinks to an external site.\nData management start kit, Links to an external site. a list of resources and websites collected by gofair.org\nhttps://orcid.org\nWilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., ... & Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Links to an external site.Scientific data, 3(1), 1-9.\n\n\nExample Data Standards:\nNeurodata without Borders:  https://www.nwb.org/Links to an external site.\nBIDS: https://bids.neuroimaging.io/\nGIN: https://g-i-n.net/international-guidelines-library/ \n\n\nExample Repositories:\nhttps://dandiarchive.org Links to an external site. \nhttps://openneuro.org/Links to an external site.\nhttps://dataverse.harvard.edu/Links to an external site.\nhttps://data.mendeley.com/Links to an external site.\nhttps://www.ncbi.nlm.nih.gov/geo/ Links to an external site.(genomics data repository)\nFigshareLinks to an external site.\nDatabrary Links to an external site.  \nDSpace@ MIT a digital repository for MIT's research\nCanadian Federated Research Data RepositoryLinks to an external site.\n\n\nExample Data search tools:\nhttps://datasetsearch.research.google.com/Links to an external site.\nhttps://www.re3data.org/ Links to an external site.(can browse by subject by clicking browse at the top of the screen)\nhttps://catalog.data.gov/dataset"
   },
   {
-    "objectID": "index.html#learning-outcomes",
-    "href": "index.html#learning-outcomes",
-    "title": "Tools for Robust Research",
-    "section": "Learning Outcomes:",
-    "text": "Learning Outcomes:\n\nStudents in this course will:\n\nIdentify obstacles to conducting robust scientific research\nPractice using current cutting-edge tools designed to overcome these obstacles by improving scientific practices and incentives, and\nCritically evaluate these tools' potential and limitations.\n\nExample tools we will investigate include shared pre-registration, experimental design, data management plans, meta-data standards, repositories, FAIR code, open source data processing pipelines, alternatives to scientific paper formats, alternative publishing agreements, citation audits, reformulated incentives for hiring and promotion, and more."
+    "objectID": "content/week-02.html#the-critical-evaluation",
+    "href": "content/week-02.html#the-critical-evaluation",
+    "title": "Week 2",
+    "section": "The Critical Evaluation",
+    "text": "The Critical Evaluation\nThe challenge: Data are wasted, lost and under-used. Describe your perception of this challenge for science. This paragraph might describe, for example, specific examples of when and why data reuse is important for your science, something you learned from the readings you didn’t already know, and/or a personal experience you’ve had that really brought this challenge home. \nThe tool: describe what you did in fulfilling the practical activity. This might also include any snags you hit.\nThen provide a critical evaluation of the tool: What is the promise of this data repositories and data standards in addressing the challenge of lost and wasted data? What are the biggest technical obstacles to data sharing in your subfield? These might include the effort required to develop data standards, to prepare datasets for sharing, or to find data once they have been shared. What are the biggest social obstacles to data sharing in your subfield?"
   },
   {
-    "objectID": "index.html#when-and-where",
-    "href": "index.html#when-and-where",
-    "title": "Tools for Robust Research",
-    "section": "When And Where",
-    "text": "When And Where\nIf you are an MIT student, you can refer to the internal information for in-person meetings. This course is open and can be taken at any time anywhere.\n\nMIT Participants\nThis course is intended for PhD and M-Eng students. Although based in Brain and Cognitive Science (course 9, and 6-9), students from other departments are welcome. Auditors at any career stage are welcome, but expected to complete readings and assignments (including oral presentations, excluding final project)."
-  },
-  {
-    "objectID": "index.html#structure-of-the-class",
-    "href": "index.html#structure-of-the-class",
-    "title": "Tools for Robust Research",
-    "section": "Structure of the Class:",
-    "text": "Structure of the Class:\nEach week we will consider one major type of challenge that we face as scientists, and some tools being developed to address that challenge."
-  },
-  {
-    "objectID": "index.html#participation",
-    "href": "index.html#participation",
-    "title": "Tools for Robust Research",
-    "section": "Participation:",
-    "text": "Participation:\nEvery week, we will discuss a particular topic and participation includes:\n\nBackground reading or other materials (e.g. video lectures) that describe the scope of the challenge.\nAn activity or task to develop skills and practical experience with the relevant tools.\n\nThe weekly preparation work should take 4-6 hours per week.\nEach meeting of the seminar will have some combination of four components:\n\nThe first 30 min of each class session will be used for 1:1 meetings with course staff and peers. Meetings with course staff will be used to develop final projects. Peer meetings will be used for feedback on final projects, as well as for discussion of the response papers.\nFull group opening discussion of the week's challenge, particularly including relevant personal experiences.\nOral presentations by participants.\nA discussion of our collective critical evaluation of the week's tool, including opportunities for improvement."
-  },
-  {
-    "objectID": "index.html#required-work",
-    "href": "index.html#required-work",
-    "title": "Tools for Robust Research",
-    "section": "Required Work:",
-    "text": "Required Work:\n\nThis is a graduate class. Grades are based on making an authentic genuine effort, and contributing to our joint intellectual development. We do this work well because we care about it, and out of respect for one another. A good faith effort on each aspect of the required work will get full marks. Student grades will be based on four kinds of required work:\n1. Response papers (30pts). Every student every week, due the previous Friday at EOD. Three sections. Total length approximate 1 page, single spaced. In your view, what is the hardest part of this week's challenge? Including any relevant personal experiences you've had. What did you accomplish in the practical activity? How do you critically evaluate the potential of this tool to address this challenge? How will it help scientists / science / the community, and what is still missing? 3 pts per paper (1 for each section). 0 pts for late work. Maximum total points you can earn is 30 (3*10weeks), scored out of 30.\n2. In class discussions (20 pts). 3pts per week. Must be synchronous. Includes contributions to discussion, giving oral presentations, asking questions after others' oral presentations. As above, up to two weeks can be missed with no penalty.\n3. Oral presentations (20pts). Participants will give oral presentations of the same material and structure as the written response papers, but in more depth. The number of presentations per class, and the number of presentations per participant, will be determined once we know how many people are in the seminar.\n4. Final projects (30pts). Students taking the class for credit will do a final project. There are many options for the format of this project, including an essay on a topic related to the class, or a project developing or applying one of the tools discussed in the class."
-  },
-  {
-    "objectID": "index.html#ethics-of-the-class",
-    "href": "index.html#ethics-of-the-class",
-    "title": "Tools for Robust Research",
-    "section": "Ethics of the class:",
-    "text": "Ethics of the class:\n\nWe value mutual respect and trust between teachers and students. I enjoy working hard to teach students who are working hard to learn. I promise to do my best to make the classes engaging, and to adapt to your feedback. I expect you to arrive on time, so you don't disrupt the class, and to devote genuine intellectual energy to the material. This is a discussion-heavy class, and we will sometimes discuss ideas that are controversial. In order to have meaningful dialogue it will therefore be important to do all that we can to make everyone in the class feel comfortable in these discussions. On the first day of class, we will collaboratively generate ground rules for discussion (e.g., 'respect others' lived experiences'). Working together or helping one another on the weekly assignments is definitely encouraged. However, each student needs to produce their own output for the week. For example, if you are tasked to draft a pre-registration, each student should create a unique document. All submitted written work must be 100% your own original writing. Copying sentences or ideas from other students or from any other source is plagiarism. Plagiarism is unfair (to the other students) and disrespectful (to the intellectual challenge of the course), and I take it seriously. For questions, feedback, or issues that come up that are specific to you, please email the instructors."
-  },
-  {
-    "objectID": "index.html#accommodations",
-    "href": "index.html#accommodations",
-    "title": "Tools for Robust Research",
-    "section": "Accommodations",
-    "text": "Accommodations\nWe are committed to creating a community where everyone feels supported. If you have special needs or requests for the course, share these with us on the intake form. If these needs change throughout the term, contact us."
-  },
-  {
-    "objectID": "index.html#weekly-topics",
-    "href": "index.html#weekly-topics",
-    "title": "Tools for Robust Research",
-    "section": "Weekly topics:",
-    "text": "Weekly topics:\nWeek 1:\nChallenge: What are we trying to do here?\nDiscussion: Reforming science\nWeek 2:\nChallenge: Data are wasted, lost and under-used.\nTool: Data management plans, meta-data standards, data repositories.\nSep 26: No Class (Rosh Hashanna)\nWeek 3:\nChallenge: Experiments cannot be repeated by other labs.\nTool: FAIR protocols; methodology reporting standards.\nOct 10: No Class (Indigenous People's day)\nWeek 4:\nChallenge: Effect sizes are inflated by experimenter degrees of freedom.\nTool: Pre-registration of analysis pipeline.\nWeek 5:\nChallenge: Mistakes go uncaught and uncorrected\nTool: Dynamic executable papers; FAIR open-source processing pipelines\nWeek 6:\nChallenge: Time and effort are wasted by arbitrary gatekeeping\nTool: Preprints and post publication review\nWeek 7:\nChallenge: Results are only accessible to very rich institutions\nTool: Open access and alternative publishing agreements\nWeek 8:\nChallenge: Scientific papers are obsolete\nTool: Video papers, blogs\nWeek 9:\nChallenge: Researchers are incentivized to be first, not right\nTool: Badges, transparency audits, openness metrics\nWeek 10:\nChallenge: It's often unclear who should have credit, access, and ownership\nTools: Collaboration agreements, Licensing\nWeek 11:\nChallenge: Minoritized scientists are excluded and undervalued\nTool: Citation audits for papers and syllabi\nWeek 12:\nChallenge: Basic science does not generalize to the real world\nDiscussion: What are we trying to achieve, again?"
-  },
-  {
-    "objectID": "content/index.html",
-    "href": "content/index.html",
-    "title": "Class Contents",
+    "objectID": "content/week-05.html",
+    "href": "content/week-05.html",
+    "title": "Week 5",
     "section": "",
-    "text": "This class is treats one topic per week.\nWeek 1\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nWhat are we trying to do here?\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "The scientific process is supposed to accumulate better information, and identify and discard mistakes and false beliefs. Incorrect information or interpretations can be introduced into the literature and persist for a while; but ideally, these errors will be found and weeded out. This week, we will talk about how mistaken or false information enters the scientific literature, how it can be prevented, how it can be found, and what happens when it is. In a later week, we will also talk about the professional incentives that promote or prevent people from correcting mistakes. \nTalk by Simine Vazire at Open Science 2019.\nBishop, D. V. (2018). Fallibility in science: Responding to errors in the work of oneself and others. Advances in Methods and Practices in Psychological Science, 1(3), 432-438. \nThis twitter thread a grad student wrote about finding a bug in their code, and reckoning with the consequences. Sep 6 2021. \nAt least the abstract of: Hosseini, M., Hilhorst, M., de Beaufort, I., & Fanelli, D. (2018). Doing the right thing: A qualitative investigation of retractions due to unintentional error. Science and engineering ethics, 24(1), 189-206\nIn part 1 of your response paper, describe something you learned from these resources you didn’t already know, and/or a personal experience you’ve had that really brought home the challenge of catching and correcting mistakes and errors, in your own science or in your lab or in your field."
+  },
+  {
+    "objectID": "content/week-05.html#the-tool",
+    "href": "content/week-05.html#the-tool",
+    "title": "Week 5",
+    "section": "The Tool",
+    "text": "The Tool\n\nPractical skills assignment\n1. Use a tool for making dynamic executable document (R Markdown; Jupiter Notebook; Matlab Notebook) to write this week’s assignment. In your executable document, use your own data (or data from another paper) to make at least one reproducible figure. \n2. Zotero has partnered with Retraction Watch to automatically flag retracted papers in a user’s repository. Download Zotero if you do not already have it, and either import a repository from your current citation manager, or manually import a few papers of your choice if you do not use a citation manager. Look through one of your repositories, and see if any papers are flagged as retracted. If not, add a retracted paper (you can find many on Retraction Watch’s database) to the repository. Is it correctly flagged as retracted? Do you think this flag is noticeable enough to be a useful tool in preventing use of retracted papers?\n \nIn part 2 of your response paper, describe what you did in fulfilling this activity. What snags did you hit? What made this process easier or more difficult? Did you find any errors?\n\n\nUseful links and resources\nDynamic documents: sharing data and the code to make the figures all at once\n\nR markdown intro\nRMarkDown Tips and RMarkDown Lessons(particularly the first 9).\nDataColada: Eight things I do to make my open research more findable and understandable\nExample of computational notebookaccompanying paper, a guide to LIGO–Virgo detector noise and extraction of transient gravitational-wave signals, to reproduce all figures. \nVery elegant RMarkDown documentto accompany Julia Leonard’s Associations between cortical thickness and reasoning differ by socioeconomic status in development paper. By downloading the data dictionary & this document, you can reproduce the whole paper, make all figures, etc. \nHere’s a beautiful example of using interactive visualizations of data and statistics: https://seeing-theory.brown.edu/index.html\neLife Executable Research Articles https://elifesciences.org/for-the-press/eb096af1/elife-launches-executable-research-articles-for-publishing-computationally-reproducible-results\nQRESP: https://qresp.org, The open source software Qresp “Curation and Exploration of Reproducible Scientific Papers” facilitates the organization, annotation and exploration of data presented in scientific papers.\n\nDetecting and responding to mistakes and fraud\n\nA proposal to replace peer review with “Red Teams”. An author gave ‘red teams’ a financial incentive to find errors in a submission-ready manuscript.\n\nWhy? Part 1.\nWhat happened? Part 3\n\nThe Buck stops nowhere. Blog about being the “Data police”, James Heathers 2017\nEvidence of Fraud in an Influential Field Experiment About Dishonesty- Aug 2021, DataColada.\nThe fight against fake-paper factories that churn out sham science. Nature News Feature,\n23 March 2021\nhttps://retractionwatch.com/(I found the FAQ interesting) & toolfor searching the retraction watch database\nDataColada: Reducing Fraud in Science\nNotes from Computational Research Integrity Day 2021\nSchneider, J., Woods, N. D., Proescholdt, R., Fu, Y., & Team, T. (2021, July 29). Recommendations from the Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda Project.https://doi.org/10.31222/osf.io/ms579\nSerra-Garcia, M., & Gneezy, U. (2021). Nonreplicable publications are cited more than replicable ones.Science advances, 7(21), eabd1705.\nA bibliography of papers about retraction. \nSuelzer, E.M., Deal, J., Hanus, K.L. (2020). Challenges in discovering the retracted status of an article."
+  },
+  {
+    "objectID": "content/week-05.html#the-critical-evaluation",
+    "href": "content/week-05.html#the-critical-evaluation",
+    "title": "Week 5",
+    "section": "The Critical Evaluation",
+    "text": "The Critical Evaluation\nThe Challenge: Incorrect information or interpretations can be introduced into the literature and persist for a while; but ideally, these errors will be found and weeded out. This paragraph could describe something specific you learned from the readings you didn’t already know, and/or a personal experience you’ve had that really brought home the challenge of science as self-correcting.\nThe tool: Describe what you did in fulfilling this activity. What snags did you hit? What made this process easier or more difficult? Did you find any errors?\n\nDownload RStudio and complete the RMarkDown lessons. Try producing a figure from data you’ve collected or data from your lab. If you don’t have access to such data, find an openly shared RMarkDown document and reproduce a figure from that paper.\nDownload Zotero if you don’t already have it, and check for retracted papers. If none are flagged, add a retracted paper from Retraction Watch and see if Zotero correctly flags it as retracted. Is this flag noticeable enough to be a useful tool in preventing use of retracted papers?\n\nCritical evaluation of the tool. What is the promise of this tool in addressing this challenge? What are the biggest obstacles? \nThis response paper should be about a page long, single-spaced."
   },
   {
     "objectID": "content/week-01.html",
@@ -98,10 +63,192 @@
     "text": "The Critical Evaluation\nIn 1-2 pages, single spaced, answer these questions:\nIntake questions:\n\nWhat name would you like us to call you? How do you pronounce it? (e.g., Ashley, ‘ASH-LEE’); If you would like to specify your preferred pronouns, please do so here (e.g., they/she).\nWhat is your year and/or position? (e.g., 1st year grad student; postdoc; undergrad)\nWhat is your area of focus? (e.g., computational modeling, cognitive neuroscience.\nAt least one thing you’d like the instructors to know about you.\nWhy did you decide to take this class? What are you hoping to get out of this class? \nAnything we can do to support your learning in this class? Do you need any special accommodations? If so what are they?\n\nFor day 1 discussion, in light of the readings:\n\nIn general, do you believe the claims of scientists in disciplines about which you have no expertise? Why?\nIn this class we are going to discuss ways that scientists, and scientific institutions, have failed to live up to our aspirations. What is the difference between productive, healthy critique which is necessary for science, versus doubt-mongering intended to both weaken public trust in science and make scientists defensive and closed to sceptical inquiry?"
   },
   {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Class Contents",
+    "section": "",
+    "text": "This class is treats one topic per week.\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nWhat are we trying to do here?\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 2\n\n\nData are wasted, lost and under-used.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 3\n\n\nExperiments cannot be reproduced by other labs.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 4\n\n\nThe literature is biased.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 5\n\n\nMistakes go uncaught and uncorrected.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 6\n\n\nTime and effort are wasted by arbitrary gatekeeping\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 7\n\n\nResults are only accessible to very rich institutions.\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/week-04.html",
+    "href": "content/week-04.html",
+    "title": "Week 4",
+    "section": "",
+    "text": "A defining feature of scientific knowledge is that it clearly and explicitly describes both an estimate of an effect, and our confidence in that estimate. But the description of scientific knowledge in the published literature is full of inflated and overconfident estimates. One reason is that experimenters can choose which data points and analyses to report, based on which produces the “best result” (called experimenter degrees of freedom). This problem is exacerbated by publication biases that make it more difficult to publish null results (in later weeks we will discuss incentives that lead to this). Today we focus on the challenge of how to decrease experimenter degrees of freedom and inflated effect sizes in the literature. \n \n1. Nosek, B. A., Beck, E. D., Campbell, L., Flake, J. K., Hardwicke, T. E., Mellor, D. T., ... & Vazire, S. (2019). Preregistration is hard, and worthwhile. Trends in cognitive sciences, 23(10), 815-818.\n2. Watch this talk: https://www.youtube.com/watch?v=Fi3_f9I-YZs\nor\nRead this paper: Breznau, N., Rinke, E., Wuttke, A., Adem, M., Adriaans, J., Alvarez-Benjumea, A., … Nguyen, H. H. V. (2021, March 24). Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty. PsyarXiv\n3. Scheel, A. M., Schijen, M. R., & Lakens, D. (2021). An excess of positive results: Comparing the standard Psychology literature with Registered Reports. Advances in Methods and Practices in Psychological Science, 4(2), 25152459211007467. https://journals.sagepub.com/doi/10.1177/25152459211007467\nor\nWatch this talk https://www.youtube.com/watch?v=d_gT2GLH1jM\nWhen experimenters can choose which data points and analyses to report, based on which produces the “best result” (called experimenter degrees of freedom), the literature gets filled with inflated and overconfident effect sizes. In part 1 of your response paper, describe your experience and perspective on this challenge. Have you encountered an example of this problem? What makes it particularly hard in your area of science?"
+  },
+  {
+    "objectID": "content/week-04.html#the-tool",
+    "href": "content/week-04.html#the-tool",
+    "title": "Week 4",
+    "section": "The Tool",
+    "text": "The Tool\n\nPractical skills assignment.\n1. Find a paper in your field that was pre-registered. Where was the pre-registration stored? Was it easy to find, from the paper? Compare the pre-registered analyses to the analyses reported in the paper. Did the authors follow their pre-registration? If not, did they make clear where they deviated?\n2.  For one of your projects (at any stage from planning to post-publication), find a pre-registration template, or a pre-registration of a reasonably similar study. Spend 30 minutes on an outline/draft of a pre-registration. You don’t need to complete the pre-registration, but the idea is to learn about the challenges to writing a pre-registration. \n3. Identify a journal in your field that accepts submissions of Registered Reports (i.e. peer-reviewed pre-registrations)\nIn your response paper, describe what you accomplished in this task, including anything that was easier or harder than you expected.\nThen, critically evaluate pre-registration of analysis plans as a tool to address experimenter degrees of freedom, and inflated and overconfident effect sizes in the scientific literature.\nIn part 2 of your response paper, describe what you did, in fulfilling the practical activity as outlined above. \n\n\nUseful links and resources\nHow to pre-register: a Practical Guide\nA guide to registered reports\nWieschowski, S., Laser, H., Sena, E. S., Bleich, A., Tolba, R., & Strech, D. (2020). Attitudes towards animal study registries and their characteristics: An online survey of three cohorts of animal researchers.PloS one, 15(1), e0226443.\nPre-registration:\n\nAsPredicted.org\nClinicalTrials.gov\nhttp://osf.io/\nhttps://osf.io/prereg/\nhttp://socialscienceregistry.org/\nhttp://egap.org/design-registration/\nhttp://ridie.3ieimpact.org/\nhttps://declaredesign.org/getting-started.html\nNeurIPS\nJournals that offer visible badges for pre-registration\nWhat should a preregistration contain?\n\nMore arguments in favour of preregistration:\n\nhttps://www.phdontrack.net/open-science/preregistration/\nhttps://help.osf.io/hc/en-us/articles/360021390833-Preregistration\n\nA thoughtful discussion about pre-registration in mental health research by the editor of Biological Psychiatry, Deanna Barch.\nMany example pre-registration templates are linked in this thread from twitter:\n\nhttps://twitter.com/katiecorker/status/1356693366256328708\n\nAnother example of an OSF template\nA recent talk about preregistration\n \nRegistered reports:\nA list of journal accepting registered report submissions: www.cos.io/initiatives/registered-reports"
+  },
+  {
+    "objectID": "content/week-04.html#the-critical-evaluation",
+    "href": "content/week-04.html#the-critical-evaluation",
+    "title": "Week 4",
+    "section": "The Critical Evaluation",
+    "text": "The Critical Evaluation\nIn part 1, address the Challenge: When experimenters can choose which data points and analyses to report, based on which produces the “best result” (called experimenter degrees of freedom), the literature gets filled with inflated and overconfident effect sizes. Describe your experience and perspective on this challenge. Have you encountered an example of this problem? What makes it particularly hard in your area of science?\nIn part 2, describe what you did in using the tool: Pre-registered analysis pipeline. Describe what you did, in fulfilling the practical activity:\n\nFinding a pre-registered paper in your field, including where the pre-registration was stored, how easy it was to find from the paper, if the authors followed their pre-registration, and if they made clear where they deviated.\n\n\n\nSpending 30 minutes working on an outline/draft of a pre-registration of your own\nIdentify a journal in your field that accepts submissions of Registered Reports (peer-reviewed pre-registrations)\n\nIn part 3, critically evaluate the tool. What is the promise of this tool in addressing this challenge? What are the biggest obstacles? \nThis response paper should be about a page long, single-spaced."
+  },
+  {
+    "objectID": "content/week-06.html",
+    "href": "content/week-06.html",
+    "title": "Week 6",
+    "section": "",
+    "text": "Scientists communicate findings through publications in peer-reviewed journals.  However, this process is slow and prone to biases as it relies heavily on existing social networks of scientists. It also relies on the unpaid labor of researchers who are not incentivized to write thorough or well-thought-out reviews, which can lead to inconsistent or unhelpful reviews. Peer review can also be biased by the status, institution, or demographics of the authors.  This process hampers scientific progress. To combat some of these issues, scholars have begun to post pre-prints, which allows researchers to post a copy of their paper at any stage. However, this can lead to public dissemination of findings that have not been confirmed by other scientists. All of this came to a dramatic and explosive point in the controversies about preprints and pandemic research. We will consider challenges associated with peer review, and tools designed to hold on to the good parts while jettisoning the bad. \nPeer review isn’t working, Everything Hertz Podcast episode 159, with Saloni Dattani.\nA twitter thread on evidence of status bias in peer review\nA humorous approach to problems with peer review: https://shitmyreviewerssay.tumblr.com/\nTime to rethink the publication process in machine learning, Blog by Yoshua Bengio, 26 Feb 2020\nBy contrast, an example of the spread of false information in non-peer reviewed sources, is the infamous Yan report.\nRead over elife’s description of their ‘new model’: https://elifesciences.org/inside-elife/54d63486/elife-s-new-model-changing-the-way-you-share-your-research and about their assessment model https://elifesciences.org/inside-elife/db24dd46/elife-s-new-model-what-is-an-elife-assessment\nLook through Preprints and Rapid Communication of COVID-19 research, a collection of articles and resources by ASAP Bio. \nIn sum, peer review is slow, prone to error, potentially biased, and there’s no incentive for anyone to do it well; but doing without peer review is also problematic!  In your response paper, describe specific examples of when and why peer review and/or rapid dissemination of results are important for your science, something you learned from the readings you didn’t already know, and/or a personal experience you’ve had that really brought home the challenge of peer review and/or rapid dissemination of results.\n\nSomewhat older resources:\nVale, R. D. (2015). Accelerating scientific publication in biology.Proceedings of the National Academy of Sciences, 112(44), 13439-13446.\nKaiser J. (2017) The preprint dilemma.Science. 357:1344–1349."
+  },
+  {
+    "objectID": "content/week-06.html#the-challenge",
+    "href": "content/week-06.html#the-challenge",
+    "title": "Week 6",
+    "section": "The Challenge",
+    "text": "The Challenge\n\nPractical skills assignment\n1. Take fosteropenscience.eu course on Open Peer Review. Which are advantages and disadvantages of Open peer review versus double blind review? (Here’s a paper about double blind review). \n2. eLife as a journal has been experimenting with ways to improve peer review (more information on eLife’s explanation of their model here and here). What do you think of their approach?  \n3. ASAPBio has been trying to expand preprint review (see blog here). Participate in post-publication review of a preprint. Using one of the websites or resources below, or on Twitter or your own blog, comment on, review, endorse, or tweet about a preprint in your field. (Note: the content of these can be positive, along the lines of “What I like about this paper is...”). Does your experience shed light on the obstacles ASAPbio confronted, in making reform?\n4. Identify a preprint (by you, or by someone you know personally) that was shared on an archive and publicized on social media (e.g. Twitter, etc)  before it was formally published. Did sharing the preprint accelerate the response to the paper? Did the paper change in response to feedback to the preprint, that wasn’t provided by a journal?\nIn your response paper, describe what you did in fulfilling the practical activity, and include a link to your public response/comment. Also discuss any snags you hit.\nThen provide a critical evaluation of the tool. How will preprints and post-publication review help address the flaws in the current peer review system? What are the biggest obstacles? \n \n\n\nUseful links and resources \nTools for post-publication peer review or commentary on preprints\n\nhttps://sciety.org/\nhttps://f1000.com/\nhttps://peercommunityin.org/\n\n\n\nhttps://help.osf.io/hc/en-us/articles/360038856834-Endorse-a-Preprint\nhttps://pubpeer.com/\n\nA recent talk by Chris Chambers about registered reports and the tool “Peer Community In”: https://osf.io/mnp6y/?pid=d4fh5\n \nOther resources for improving preprint and review systems\nhttps://www.reviewerzero.net/home\nhttps://asapbio.org/preprint-reviewer-recruitment-network\nRecommendations for how to talk about preprints in public: Preprints in the Public Eye.\nA collection of ideas and tools for Tackling information overload: identifying relevant preprints and reviewers\nOne potential tool is a Preprint newsletter, Front Matter.\nBesançon, L., Peiffer-Smadja, N., Segalas, C., Jiang, H., Masuzzo, P., Smout, C., ... & Leyrat, C. (2021). Open science saves lives: lessons from the COVID-19 pandemic.BMC Medical Research Methodology, 21(1), 1-18.\n \nPractical resources for writing peer reviews\nhttps://plos.org/resource/how-to-write-a-peer-review/\nPeer review week 2021: https://peerreviewweek.wordpress.com\nAnd the youtube channel from previous years of Peer Review Week"
+  },
+  {
+    "objectID": "content/week-06.html#the-critical-evaluation",
+    "href": "content/week-06.html#the-critical-evaluation",
+    "title": "Week 6",
+    "section": "The Critical Evaluation",
+    "text": "The Critical Evaluation\nThe Challenge: Peer review is slow, prone to error, potentially biased, and there’s no incentive for anyone to do it well; but doing without peer review is also problematic!  Describe specific examples of when and why peer review and/or rapid dissemination of results are important for your science, something you learned from the readings you didn’t already know, and/or a personal experience you’ve had that really brought home the challenge of peer review and/or rapid dissemination of results.\nThe tool: describe what you did in fulfilling the practical activity. \nCritical evaluation of the tool: How will preprints and post-publication review help address the flaws in the current peer review system? What are the biggest obstacles? \nThis response paper should be about a page long, single-spaced."
+  },
+  {
+    "objectID": "content/week-03.html",
+    "href": "content/week-03.html",
+    "title": "Week 3",
+    "section": "",
+    "text": "A defining feature of scientific knowledge is that it is replicable: another scientist should be able to repeat the procedure, and re-generate the same results. Yet in reality, there are many obstacles to replication. The first obstacle is often: published procedures are not described sufficiently, to allow another scientist to reproduce them. Other obstacles to replication will be discussed in later classes (e.g. experimenter degrees of freedom and publication bias mean that published results offer an inflated estimate of effect sizes; professional incentives for scientists often don’t reward reproducing or being reproducible). Today we focus on the challenge of how to make scientific procedures reproducible. Everyone should read the resources under ‘everyone’; after that please read the additional readings most relevant to you.\nEveryone\nNosek, B. A., & Errington, T. M. (2020). The best time to argue about what a replication means? Before you do it. Links to an external site.Nature 583, 518-520 \nTeytelman, L (2018) No more excuses for non-reproducible methods. Links to an external site. Nature 560, 411. Or watch a recent (2021) talk (the beginning is funny/sad):\n\nBiological sciences\nErrington, T. M. (2019) Slides for Reproducibility Project: Cancer Biology, Barriers to Replicability in the Process of Research.Download Reproducibility Project: Cancer Biology, Barriers to Replicability in the Process of Research. Talk at MetaScience conference.\n\nSystems Neuroscience\nBanga, K., Benson, J., Bonacchi, N., Bruijns, S. A., Campbell, R., Chapuis, G. A., ... & Winter, O. (2022). Reproducibility of in-vivo electrophysiological measurements in mice Links to an external site.. bioRxiv. \nComputational science\nBarton, CM et al (2022) How to make models more useful. Links to an external site.PNAS 119 (35) e2202112119\nPineau, J. (2020) The Machine Learning Reproducibility ChecklistLinks to an external site.\nDevelopmental Science\nGilmore, R. O., & Adolph, K. E. (2017). Video can make behavioural science more reproducible. Nature human behaviour, 1(7), 1-2. https://www.nature.com/articles/s41562-017-0128Links to an external site.\nFrank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., ... & Yurovsky, D. (2017). A collaborative approach to infant research: Promoting reproducibility, best practices, and theory‐building Links to an external site.. Infancy, 22(4), 421-435. or watch this talk by Mike Frank\n\nSocial Science\nMoody, J. W., Keister, L. A., & Ramos, M. C. (2022). Reproducibility in the Social Sciences. Links to an external site. Annual Review of Sociology, 48. SO48CH21_Moody[001-021].pdf"
+  },
+  {
+    "objectID": "content/week-03.html#the-tool",
+    "href": "content/week-03.html#the-tool",
+    "title": "Week 3",
+    "section": "The Tool",
+    "text": "The Tool\n\nPractical Assignment:\n1. Find a paper in your field which describes an experiment. Use the ARRIVE and CONSORT checklist to evaluate how well they communicate their methods and design decisions. What is missing? Note any trouble you have applying these checklists to research in your area.\nhttps://arriveguidelines.org/sites/arrive/files/documents/ARRIVE%20Compliance%20Questionnaire.pdf\n\nFind the website or tool that is used for sharing detailed / executable protocols in your discipline (see examples below). Ideally, find an existing template similar to an experiment you have done or are planning to do. Spend 30 minutes beginning to create an experimental protocol in this tool. In response paper answer: How far did you get? What was difficult about the task?\n\nIn your response paper, describe what you accomplished in these tasks, and any snags you hit.\nThen, critically evaluate these tools: will they address the obstacles to repeatability in your area of science? What else is needed?\n\n\nUseful links and resources\nTools for shared protocols:\n\nbiological sciences:\n\nProtocols.io \nProtocolExchange\nProtocol-online\n\nonline behavioural experiments:\n\nOTree\nPsyToolkit \nPavlovia \nPCIbexLinks\n\ncomputational biology:\n\nNextflow\n\nIn this wikipedia page, there is a list of electronic laboratory notebook software packages\nARRIVE and CONSORT methodology reporting standards:\n\nhttps://arriveguidelines.org/\nhttp://www.consort-statement.org/\n\nVideos of workshop on how to improve reproducibility\nRepository of scales used in Psychology:\n\nhttps://osf.io/5zb8p/ \n\nCollection of articles about reproducibility:\n\nhttps://www.nature.com/collections/prbfkwmwvz/\nhttps://www.datajoint.org/\nhttps://www.nc3rs.org.uk/experimental-design-assistant-eda\n\nInterview with Teytelman where he talks about the obstacles to uptake of protocols.io\nA slate article about how personal and ugly Links to an external site.the controversies about replication can get. This story is about a psychology experiment about moral priming, and the controversy was called “#repligate”. \nMore than twenty years ago there was a very famous controversy about the replicability of findings in genetically identical mice.\n\nOriginal paper.\nFollow-up paper.\n\nFreedman, L. P., Cockburn, I. M., & Simcoe, T. S. (2015). The economics of reproducibility in preclinical research. Links to an external site.PLoS biology, 13(6), e1002165.\nAshley’s example (in progress): Conducting Online Research With Infants"
+  },
+  {
+    "objectID": "content/week-03.html#the-critical-evaluation",
+    "href": "content/week-03.html#the-critical-evaluation",
+    "title": "Week 3",
+    "section": "The Critical Evaluation",
+    "text": "The Critical Evaluation\nThe Challenge: Experiments cannot be repeated by other labs. Another scientist should be able to repeat the procedure, and re-generate the same results. A major challenge is that procedures are often not described sufficiently, to allow another scientist to repeat them.  Even within labs people often struggle to replicate prior results. What personal experience have you had with this challenge? What makes repeatable methods particularly challenging in your area of science? \nThe tool: FAIR protocols and methodology reporting standards. Describe what you did, in fulfilling the practical activity. This includes describing how the paper you found adheres to the guidelines or what it is missing; and your experience trying to create a protocol using an online tool or template. Include any snags you hit.\nCritical evaluation of the tool. What is the promise of these tools in addressing this challenge? What are the biggest obstacles? These might include the time and effort of writing or sharing complete protocols, uncertainty about which are the relevant aspects of the context, specific methods that are unusually difficult to faithfully transmit, problems with workflow, incentives, or adoption.  \nThis response paper should be 1-2 pages long, single-spaced, please tell us which papers you chose to read at the top of your response paper."
+  },
+  {
+    "objectID": "content/week-07.html",
+    "href": "content/week-07.html",
+    "title": "Week 7",
+    "section": "",
+    "text": "Scientific progress is theoretically a gradual process that involves many researchers building on one another’s work. However, subscriptions to journals are only affordable to the world’s wealthiest institutions. To make matters worse, between 75% and 90% of publications are in English. These disparities severely limit who has access to scientific knowledge, and who can engage in the cumulative scientific process, hampering the scientific process and creating an unjust system.\nMIT news release re: ending negotiations with Elsevier\nChris Bourg’s colloquium talk in BCS, April 2021. Chris Bourg is the director of MIT libraries, and led negotiations between MIT and Elsevier. \nPlan-S:An Alliance of European funders mandating Open Access. The wikipedia articleincludes a description of some of the concerns, and why the US refused to join. \nWho’s downloading pirated papers? Everyone| Science. (PDFDownload)\nA short quiz on ‘what costs more’\nIn your response paper, describe something you didn’t know about publishing that you learned from these sources, and/or a personal experience you had with the costs and benefits of open access publishing."
+  },
+  {
+    "objectID": "content/week-07.html#the-tool",
+    "href": "content/week-07.html#the-tool",
+    "title": "Week 7",
+    "section": "The Tool",
+    "text": "The Tool"
+  },
+  {
+    "objectID": "content/week-07.html#practical-skills-assignment",
+    "href": "content/week-07.html#practical-skills-assignment",
+    "title": "Week 7",
+    "section": "Practical skills assignment",
+    "text": "Practical skills assignment\n1. Take the course on Open Access Publishing at fosteropenscience.edu\n2. Use the Plan-S Journal Checker Tool, to check the compliance of the last five papers that were published by your lab. If you aren’t in a lab, check the last five scientific papers you were assigned to read for anything except this class. Also for each of these papers, check the journal’s website for the APC policy - how much would an author have to pay to make a paper in this journal Open Access, right now?\n3. Find a paper (not by you or your own lab) that was published ‘Green Open Access’ (self-archived by the author, freely available in the last submitted version, and possibly after an embargo period). Can you get access to both the free and the published paywalled version? Where? How do they differ?\n4. Look up the Google Scholar profile of a senior scientist whose work you know well. Are all of their papers compliant with funder mandates for open access, according to Google Scholar?\nIn your response paper, describe what you did in fulfilling this practical activity, and any snags you encountered. \nThen give your critical evaluation of Open Access publishing models. How will these changes improve science? What are the remaining challenges?"
+  },
+  {
+    "objectID": "content/week-07.html#useful-links-and-resources",
+    "href": "content/week-07.html#useful-links-and-resources",
+    "title": "Week 7",
+    "section": "Useful links and resources",
+    "text": "Useful links and resources\nPublic Library of Science publisher\nOpen-access publisher PLOS pushes to extend clout beyond biomedicine, Nature NEWS, May 2021\nDo you obey public-access mandates? Google Scholar is watching| Nature NEWS, March 2021\nHow Unpaywall is transforming open science| Nature NEWS, April 2018\nhttps://unpaywall.org\nMy love-hate of Sci-Hub| Science, Marcia McNutt \nNature’s Guide to Plan-S, April 2021\nData visualization: international open access policies and change over time. \nhttps://sparcopen.org/people/sparc-africa/\nWikipedia’s list of open access journals. \nDirectory of Open Access Journals. \nOne database of funders’ requirements for Open Access. (UK)\nAnother database of funders’ requirements for Open Access. (US)\nRamírez-Castañeda, V. (2020). Disadvantages in preparing and publishing scientific papers caused by the dominance of the English language in science: The case of Colombian researchers in biological sciences.PloS one, 15(9), e0238372."
+  },
+  {
+    "objectID": "content/week-07.html#the-critical-evaluation",
+    "href": "content/week-07.html#the-critical-evaluation",
+    "title": "Week 7",
+    "section": "The Critical Evaluation",
+    "text": "The Critical Evaluation\nDescribe the challenge with current publishing models, highlighting something you didn’t know about publishing that you learned from these sources, and/or a personal experience you had with the costs and benefits of open access publishing.  Describe what you did in fulfilling this practical activity, and any snags you encountered. Then give your critical evaluation of Open Access publishing models. How will these changes improve science? What are the remaining challenges?"
+  },
+  {
+    "objectID": "instructors/ashley.html",
+    "href": "instructors/ashley.html",
+    "title": "Ashley Thomas",
+    "section": "",
+    "text": "website\n  \n  \n    \n     twitter\n  \n  \n    \n     Github"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About your instructors",
     "section": "",
-    "text": "About this site"
+    "text": "Ashley Thomas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRebecca Saxe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tools for Robust Research",
+    "section": "",
+    "text": "Rebecca Saxe (she/hers), Instructor, Brain and Cognitive Sciences\nAshley Thomas (she/hers), co-Instructor, Center for Research in Equitable and Open Scholarship"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Tools for Robust Research",
+    "section": "Course Description:",
+    "text": "Course Description:\nWe aspire to do science to make true discoveries, build cumulative knowledge through skeptical inquiry, and translate this knowledge into social goods like medicines, devices, or policies. Yet in reality, scientists have often failed to live up to these aspirations, because of bad habits and bad institutions. In the current moment, tremendous energy is being devoted across the cognitive and neuro-sciences to renewing our scientific practices. New tools are being developed, to improve credibility, facilitate collaboration, accelerate scientific discovery, and expedite translation of results. As institutions such as the NIH and EU research council are developing new policies requiring data management, accessibility and broader impacts, early career researchers must learn to fulfill these requirements."
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "Tools for Robust Research",
+    "section": "Learning Outcomes:",
+    "text": "Learning Outcomes:\n\nStudents in this course will:\n\nIdentify obstacles to conducting robust scientific research\nPractice using current cutting-edge tools designed to overcome these obstacles by improving scientific practices and incentives, and\nCritically evaluate these tools’ potential and limitations.\n\nExample tools we will investigate include shared pre-registration, experimental design, data management plans, meta-data standards, repositories, FAIR code, open source data processing pipelines, alternatives to scientific paper formats, alternative publishing agreements, citation audits, reformulated incentives for hiring and promotion, and more."
+  },
+  {
+    "objectID": "index.html#when-and-where",
+    "href": "index.html#when-and-where",
+    "title": "Tools for Robust Research",
+    "section": "When And Where",
+    "text": "When And Where\nIf you are an MIT student, you can refer to the internal information for in-person meetings. This course is open and can be taken at any time anywhere.\n\nMIT Participants\nThis course is intended for PhD and M-Eng students. Although based in Brain and Cognitive Science (course 9, and 6-9), students from other departments are welcome. Auditors at any career stage are welcome, but expected to complete readings and assignments (including oral presentations, excluding final project)."
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Each week we will consider one major type of challenge that we face as scientists, and some tools being developed to address that challenge."
+  },
+  {
+    "objectID": "syllabus.html#participation",
+    "href": "syllabus.html#participation",
+    "title": "Syllabus",
+    "section": "Participation:",
+    "text": "Participation:\nEvery week, we will discuss a particular topic and participation includes:\n\nBackground reading or other materials (e.g. video lectures) that describe the scope of the challenge.\nAn activity or task to develop skills and practical experience with the relevant tools.\n\nThe weekly preparation work should take 4-6 hours per week.\nEach meeting of the seminar will have some combination of four components:\n\nThe first 30 min of each class session will be used for 1:1 meetings with course staff and peers. Meetings with course staff will be used to develop final projects. Peer meetings will be used for feedback on final projects, as well as for discussion of the response papers.\nFull group opening discussion of the week’s challenge, particularly including relevant personal experiences.\nOral presentations by participants.\nA discussion of our collective critical evaluation of the week’s tool, including opportunities for improvement."
+  },
+  {
+    "objectID": "syllabus.html#required-work",
+    "href": "syllabus.html#required-work",
+    "title": "Syllabus",
+    "section": "Required Work:",
+    "text": "Required Work:\n\nThis is a graduate class. Grades are based on making an authentic genuine effort, and contributing to our joint intellectual development. We do this work well because we care about it, and out of respect for one another. A good faith effort on each aspect of the required work will get full marks. Student grades will be based on four kinds of required work:\n1. Response papers (30pts). Every student every week, due the previous Friday at EOD. Three sections. Total length approximate 1 page, single spaced. In your view, what is the hardest part of this week’s challenge? Including any relevant personal experiences you’ve had. What did you accomplish in the practical activity? How do you critically evaluate the potential of this tool to address this challenge? How will it help scientists / science / the community, and what is still missing? 3 pts per paper (1 for each section). 0 pts for late work. Maximum total points you can earn is 30 (3*10weeks), scored out of 30.\n2. In class discussions (20 pts). 3pts per week. Must be synchronous. Includes contributions to discussion, giving oral presentations, asking questions after others’ oral presentations. As above, up to two weeks can be missed with no penalty.\n3. Oral presentations (20pts). Participants will give oral presentations of the same material and structure as the written response papers, but in more depth. The number of presentations per class, and the number of presentations per participant, will be determined once we know how many people are in the seminar.\n4. Final projects (30pts). Students taking the class for credit will do a final project. There are many options for the format of this project, including an essay on a topic related to the class, or a project developing or applying one of the tools discussed in the class."
+  },
+  {
+    "objectID": "syllabus.html#ethics-of-the-class",
+    "href": "syllabus.html#ethics-of-the-class",
+    "title": "Syllabus",
+    "section": "Ethics of the class:",
+    "text": "Ethics of the class:\n\nWe value mutual respect and trust between teachers and students. I enjoy working hard to teach students who are working hard to learn. I promise to do my best to make the classes engaging, and to adapt to your feedback. I expect you to arrive on time, so you don’t disrupt the class, and to devote genuine intellectual energy to the material. This is a discussion-heavy class, and we will sometimes discuss ideas that are controversial. In order to have meaningful dialogue it will therefore be important to do all that we can to make everyone in the class feel comfortable in these discussions. On the first day of class, we will collaboratively generate ground rules for discussion (e.g., ‘respect others’ lived experiences’). Working together or helping one another on the weekly assignments is definitely encouraged. However, each student needs to produce their own output for the week. For example, if you are tasked to draft a pre-registration, each student should create a unique document. All submitted written work must be 100% your own original writing. Copying sentences or ideas from other students or from any other source is plagiarism. Plagiarism is unfair (to the other students) and disrespectful (to the intellectual challenge of the course), and I take it seriously. For questions, feedback, or issues that come up that are specific to you, please email the instructors."
+  },
+  {
+    "objectID": "syllabus.html#accommodations",
+    "href": "syllabus.html#accommodations",
+    "title": "Syllabus",
+    "section": "Accommodations",
+    "text": "Accommodations\nWe are committed to creating a community where everyone feels supported. If you have special needs or requests for the course, share these with us on the intake form. If these needs change throughout the term, contact us."
+  },
+  {
+    "objectID": "syllabus.html#weekly-topics",
+    "href": "syllabus.html#weekly-topics",
+    "title": "Syllabus",
+    "section": "Weekly topics:",
+    "text": "Weekly topics:\nFollow this link to see the weekly topics."
   }
 ]

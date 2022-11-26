@@ -1,19 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://matiasandina.github.io/tools-for-robust-research/index.html</loc>
-    <lastmod>2022-11-21T15:21:21.726Z</lastmod>
+    <loc>https://matiasandina.github.io/tools-for-robust-research/content/week-02.html</loc>
+    <lastmod>2022-11-26T17:57:26.452Z</lastmod>
   </url>
   <url>
-    <loc>https://matiasandina.github.io/tools-for-robust-research/content/index.html</loc>
-    <lastmod>2022-11-21T15:21:23.818Z</lastmod>
+    <loc>https://matiasandina.github.io/tools-for-robust-research/content/week-05.html</loc>
+    <lastmod>2022-11-26T17:57:28.648Z</lastmod>
   </url>
   <url>
     <loc>https://matiasandina.github.io/tools-for-robust-research/content/week-01.html</loc>
-    <lastmod>2022-11-21T15:21:24.202Z</lastmod>
+    <lastmod>2022-11-26T17:57:29.040Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matiasandina.github.io/tools-for-robust-research/content/index.html</loc>
+    <lastmod>2022-11-26T17:57:29.476Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matiasandina.github.io/tools-for-robust-research/content/week-04.html</loc>
+    <lastmod>2022-11-26T17:57:29.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matiasandina.github.io/tools-for-robust-research/content/week-06.html</loc>
+    <lastmod>2022-11-26T17:57:30.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matiasandina.github.io/tools-for-robust-research/content/week-03.html</loc>
+    <lastmod>2022-11-26T17:57:30.776Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matiasandina.github.io/tools-for-robust-research/content/week-07.html</loc>
+    <lastmod>2022-11-26T17:57:31.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matiasandina.github.io/tools-for-robust-research/instructors/rebecca.html</loc>
+    <lastmod>2022-11-26T17:57:31.556Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matiasandina.github.io/tools-for-robust-research/instructors/ashley.html</loc>
+    <lastmod>2022-11-26T17:57:31.896Z</lastmod>
   </url>
   <url>
     <loc>https://matiasandina.github.io/tools-for-robust-research/about.html</loc>
-    <lastmod>2022-11-21T15:21:24.522Z</lastmod>
+    <lastmod>2022-11-26T17:57:32.304Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matiasandina.github.io/tools-for-robust-research/index.html</loc>
+    <lastmod>2022-11-26T17:57:32.752Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matiasandina.github.io/tools-for-robust-research/syllabus.html</loc>
+    <lastmod>2022-11-26T17:57:33.148Z</lastmod>
   </url>
 </urlset>
