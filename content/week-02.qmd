@@ -1,0 +1,107 @@
+---
+title: "Week 2"
+subtitle: "Data are wasted, lost and under-used."
+editor: visual
+---
+
+## The Challenge
+
+We want the data we collect to be used to make scientific advances. Ideally, we want to make and publish these discoveries ourselves. But eventually, there are many reasons to hope others will be able to use the data as well, in order to to aggregate into larger datasets, as foundations for new studies, and/or for new scientific purposes that never even occurred to us. This year, NIH and the White House have both mandated that all scientific data be shared openly at the time of publication. Yet many labs' current practices don't always support easy and responsible data sharing. 
+
+In your response paper describe, for example, specific examples of when and why data reuse is important for your science, something you learned from the readings you didn't already know, and/or a personal experience you've had that really brought home the challenge of data sharing and management.
+
+### Assigned Readings
+
+Frank M (2022) [Chapter 13 Project management Links to an external site.](https://experimentology.io/13-management)in Experimentology
+
+Henry T (2021) [Data Management for Researchers: Three Tales Links to an external site.](https://www.teaguehenry.com/strings-not-factors/2021/1/24/data-management-for-researchers-three-terrifying-tales) and [Eight Principles of Good Data ManagementLinks to an external site.](https://www.teaguehenry.com/strings-not-factors/2021/2/21/eight-principles-of-good-data-management)
+
+[Final NIH Policy for Data Management and SharingLinks to an external site.](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html) 
+
+### Additional resources (optional)
+
+Ehlers, M., & Lonsdorf, T. (2022). [Translating FAIR data sharing guidelines to field specific actionables in 10 simple steps-towards a dynamically growing \'fear database\'(FEAR BASE). Links to an external site.](https://psyarxiv.com/8crk3/) Preprint.
+
+Wilkinson, MD, Dumontier, M, Aalbersberg, IJ, Appleton, G, Axton, M, Baak, A, Blomberg, N, Boiten, JW, da Silva Santos, LB, Bourne, PE and Bouwman, J. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific data, 3(1): 1--9. DOI: [https://doi.org/10.1038/sdata.2016.18 Links to an external site.](https://doi.org/10.1038/sdata.2016.18)
+
+Downs, R. R. (2021). [Improving Opportunities for New Value of Open Data: Assessing and Certifying Research Data Repositories. Links to an external site.](https://datascience.codata.org/article/10.5334/dsj-2021-001/) *Data Science Journal*, *20*(1).
+
+Soderberg, C. K. (2018). [Using OSF to share data: A step-by-step guide Links to an external site.](https://journals.sagepub.com/doi/10.1177/2515245918757689). Advances in Methods and Practices in Psychological Science, 1(1), 115-120.
+
+Ferguson, A. R., Nielson, J. L., Cragin, M. H., Bandrowski, A. E., & Martone, M. E. (2014). [Big data from small data: data-sharing in the'long tail'of neuroscience. ](https://canvas.mit.edu/courses/16735/files/2628361?wrap=1 "Ferguson_etal_2014.pdf")[ Download Big data from small data: data-sharing in the'long tail'of neuroscience.](https://canvas.mit.edu/courses/16735/files/2628361/download?download_frd=1)Nature neuroscience, 17(11), 1442-1447.
+
+Markiewicz, C. J., Gorgolewski, K. J., Feingold, F., Blair, R., Halchenko, Y. O., Miller, E., \... & Poldrack, R. (2021). [The OpenNeuro resource for sharing of neuroscience data. Links to an external site.](https://elifesciences.org/articles/71774) *Elife*, *10*, e71774.
+
+## The Tool
+
+### Practical skills assignment.
+
+1\. Find a private (not already publicly shared) dataset you have recently created or used, and evaluate it against the recommendations in Section 13.2 of [Chapter 13 Project management Links to an external site.](https://experimentology.io/13-management), in Experimentology. Which recommendations are fulfilled? What needs work?
+
+2\. Find the (meta)data standards and data repositories that are most relevant for your subfield.
+
+3\. Identify a public dataset in your subfield. This could be a dataset of your own, or from your own lab, or a publicly shared dataset from another lab in your field. Give a basic description of the dataset in your response paper (who generated it, what kind of data, where is it publicly shared). Evaluate this dataset using the [FAIR checklist Links to an external site.](https://www.lcrdm.nl/files/lcrdm/2019-07/HOW%20FAIR%20IS%20YOUR%20DATA_flyer_2.pdf).
+
+-   Findable: Which data search tools can find this dataset? How easy would it be to find? What repository is it stored in? How searchable is the repository? Can the data be cited?
+
+-   Accessible: Can the data be easily retrieved and downloaded? Are reasonable restrictions in place?
+
+-   Interoperable: Do the data and metadata conform to recognized standards in this discipline? How good are those standards?
+
+-   Reusable: Is there sufficient information to support data interpretation and reuse? 
+
+### Useful links and resources
+
+A short [course on how to evaluate the FAIRness of data.Links to an external site.](https://www.fosteropenscience.eu/node/2644)
+
+A graphical introduction to [Tidy data, in a twitter threadLinks to an external site.](https://twitter.com/juliesquid/status/1315710359404113920)
+
+[Data management start kit, Links to an external site.](https://www.go-fair.org/resources/rdm-starter-kit/) a list of resources and websites collected by gofair.org
+
+<https://orcid.org>
+
+Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., \... & Mons, B. (2016). [The FAIR Guiding Principles for scientific data management and stewardship. Links to an external site.](https://www.nature.com/articles/sdata201618?)Scientific data, 3(1), 1-9.
+
+### Example Data Standards:
+
+Neurodata without Borders:  [https://www.nwb.org/Links to an external site.](https://www.nwb.org/)
+
+BIDS: <https://bids.neuroimaging.io/>
+
+GIN: <https://g-i-n.net/international-guidelines-library/> 
+
+### Example Repositories:
+
+[https://dandiarchive.org Links to an external site.](https://dandiarchive.org/) 
+
+[https://openneuro.org/Links to an external site.](https://openneuro.org/)
+
+[https://dataverse.harvard.edu/Links to an external site.](https://dataverse.harvard.edu/)
+
+[https://data.mendeley.com/Links to an external site.](https://data.mendeley.com/)
+
+[https://www.ncbi.nlm.nih.gov/geo/ Links to an external site.](https://www.ncbi.nlm.nih.gov/geo/)(genomics data repository)
+
+[FigshareLinks to an external site.](https://figshare.com/)
+
+[Databrary Links to an external site.](https://nyu.databrary.org/)  
+
+[DSpace\@ MIT a digital repository for MIT\'s research](https://dspace.mit.edu/)
+
+[Canadian Federated Research Data RepositoryLinks to an external site.](https://www.frdr-dfdr.ca/repo/)
+
+### Example Data search tools:
+
+[https://datasetsearch.research.google.com/Links to an external site.](https://datasetsearch.research.google.com/)
+
+[https://www.re3data.org/ Links to an external site.](https://www.re3data.org/)(can browse by subject by clicking browse at the top of the screen)
+
+<https://catalog.data.gov/dataset> 
+
+## The Critical Evaluation
+
+The challenge: Data are wasted, lost and under-used. Describe your perception of this challenge for science. This paragraph might describe, for example, specific examples of when and why data reuse is important for your science, something you learned from the readings you didn't already know, and/or a personal experience you've had that really brought this challenge home. 
+
+The tool: describe what you did in fulfilling the practical activity. This might also include any snags you hit.
+
+Then provide a critical evaluation of the tool: What is the promise of this data repositories and data standards in addressing the challenge of lost and wasted data? What are the biggest technical obstacles to data sharing in your subfield? These might include the effort required to develop data standards, to prepare datasets for sharing, or to find data once they have been shared. What are the biggest social obstacles to data sharing in your subfield?

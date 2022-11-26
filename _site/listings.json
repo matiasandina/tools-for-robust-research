@@ -2,7 +2,20 @@
   {
     "listing": "/content/index.html",
     "items": [
-      "/content/week-01.html"
+      "/content/week-01.html",
+      "/content/week-02.html",
+      "/content/week-03.html",
+      "/content/week-04.html",
+      "/content/week-05.html",
+      "/content/week-06.html",
+      "/content/week-07.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/instructors/ashley.html",
+      "/instructors/rebecca.html"
     ]
   }
 ]

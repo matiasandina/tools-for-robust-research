@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "About your instructors"
+listing:
+  contents: "instructors/*.qmd"
+  type: grid
 ---
-
-About this site

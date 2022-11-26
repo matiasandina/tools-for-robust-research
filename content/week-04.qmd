@@ -1,0 +1,116 @@
+---
+title: "Week 4"
+subtitle: "The literature is biased."
+editor: visual
+---
+
+## The Challenge
+
+A defining feature of scientific knowledge is that it clearly and explicitly describes both an estimate of an effect, and our confidence in that estimate. But the description of scientific knowledge in the published literature is full of inflated and overconfident estimates. One reason is that experimenters can choose which data points and analyses to report, based on which produces the "best result" (called experimenter degrees of freedom). This problem is exacerbated by publication biases that make it more difficult to publish null results (in later weeks we will discuss incentives that lead to this). Today we focus on the challenge of how to decrease experimenter degrees of freedom and inflated effect sizes in the literature. 
+
+ 
+
+1\. Nosek, B. A., Beck, E. D., Campbell, L., Flake, J. K., Hardwicke, T. E., Mellor, D. T., \... & Vazire, S. (2019). [Preregistration is hard, and worthwhile.](https://www.sciencedirect.com/science/article/pii/S1364661319301846?casa_token=UxxDmNYIJ3gAAAAA:HBze9ezyCMaB_QumVL7_O7P7Sik2lQzvpJawULyB9VsbAhwAgKK5xQW-wmkGQyr67hgvDNH0CQ) Trends in cognitive sciences, 23(10), 815-818.
+
+2\. Watch this talk: <https://www.youtube.com/watch?v=Fi3_f9I-YZs>
+
+or
+
+Read this paper: Breznau, N., Rinke, E., Wuttke, A., Adem, M., Adriaans, J., Alvarez-Benjumea, A., ... Nguyen, H. H. V. (2021, March 24). [Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty.](https://osf.io/preprints/metaarxiv/cd5j9/) PsyarXiv
+
+3\. Scheel, A. M., Schijen, M. R., & Lakens, D. (2021). An excess of positive results: Comparing the standard Psychology literature with Registered Reports. *Advances in Methods and Practices in Psychological Science*, *4*(2), 25152459211007467. <https://journals.sagepub.com/doi/10.1177/25152459211007467>
+
+**or**
+
+Watch this talk <https://www.youtube.com/watch?v=d_gT2GLH1jM>
+
+When experimenters can choose which data points and analyses to report, based on which produces the "best result" (called experimenter degrees of freedom), the literature gets filled with inflated and overconfident effect sizes. In part 1 of your response paper, describe your experience and perspective on this challenge. Have you encountered an example of this problem? What makes it particularly hard in your area of science?
+
+## The Tool
+
+### Practical skills assignment.
+
+1\. Find a paper in your field that was pre-registered. Where was the pre-registration stored? Was it easy to find, from the paper? Compare the pre-registered analyses to the analyses reported in the paper. Did the authors follow their pre-registration? If not, did they make clear where they deviated?
+
+2.  For one of your projects (at any stage from planning to post-publication), find a pre-registration template, or a pre-registration of a reasonably similar study. Spend 30 minutes on an *outline/draft* of a pre-registration. You don't need to complete the pre-registration, but the idea is to learn about the challenges to writing a pre-registration. 
+
+3\. Identify a journal in your field that accepts submissions of Registered Reports (i.e. peer-reviewed pre-registrations)
+
+In your response paper, describe what you accomplished in this task, including anything that was easier or harder than you expected.
+
+Then, critically evaluate pre-registration of analysis plans as a tool to address experimenter degrees of freedom, and inflated and overconfident effect sizes in the scientific literature.
+
+In part 2 of your response paper, describe what you did, in fulfilling the practical activity as outlined above. 
+
+### Useful links and resources
+
+[How to pre-register: a Practical Guide](https://osf.io/2vu7m/)
+
+[A guide to registered reports](https://www.cos.io/initiatives/registered-reports)
+
+Wieschowski, S., Laser, H., Sena, E. S., Bleich, A., Tolba, R., & Strech, D. (2020). [Attitudes towards animal study registries and their characteristics: An online survey of three cohorts of animal researchers. ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226443)PloS one, 15(1), e0226443.
+
+Pre-registration:
+
+-   [AsPredicted.org](https://aspredicted.org/)
+
+-   [ClinicalTrials.gov](https://clinicaltrials.gov/)
+
+-   <http://osf.io/>
+
+-   <https://osf.io/prereg/>
+
+-   <http://socialscienceregistry.org/>
+
+-   <http://egap.org/design-registration/>
+
+-   <http://ridie.3ieimpact.org/>
+
+-   <https://declaredesign.org/getting-started.html>
+
+-   [NeurIPS](https://preregister.science/neurips2020.html)
+
+-   Journals that offer visible [badges for pre-registration](https://www.cos.io/initiatives/badges)
+
+-   [What should a preregistration contain?](https://psyarxiv.com/cj5mh/)
+
+More arguments in favour of preregistration:
+
+-   <https://www.phdontrack.net/open-science/preregistration/>
+
+-   <https://help.osf.io/hc/en-us/articles/360021390833-Preregistration>
+
+A thoughtful discussion about [pre-registration in mental health research by the editor of Biological Psychiatry, Deanna Barch.](https://www.bpsgos.org/article/S2667-1743(21)00062-8/fulltext)
+
+Many example pre-registration templates are linked in this thread from twitter:
+
+-   <https://twitter.com/katiecorker/status/1356693366256328708>
+
+[Another example of an OSF template](https://docs.google.com/document/d/1DaNmJEtBy04bq1l5OxS4JAscdZEkUGATURWwnBKLYxk/edit?pli=1)
+
+[A recent talk about preregistration](https://www.youtube.com/watch?v=-fz_kZvlWpw)
+
+ 
+
+Registered reports:
+
+A list of journal accepting registered report submissions: [www.cos.io/initiatives/registered-reports](http://www.cos.io/initiatives/registered-reports)
+
+## The Critical Evaluation
+
+In part 1, address the Challenge: When experimenters can choose which data points and analyses to report, based on which produces the "best result" (called experimenter degrees of freedom), the literature gets filled with inflated and overconfident effect sizes. Describe your experience and perspective on this challenge. Have you encountered an example of this problem? What makes it particularly hard in your area of science?
+
+In part 2, describe what you did in using the tool: Pre-registered analysis pipeline. Describe what you did, in fulfilling the practical activity:
+
+-   Finding a pre-registered paper in your field, including where the pre-registration was stored, how easy it was to find from the paper, if the authors followed their pre-registration, and if they made clear where they deviated.
+
+```{=html}
+<!-- -->
+```
+-   Spending 30 minutes working on an outline/draft of a pre-registration of your own
+
+-   Identify a journal in your field that accepts submissions of Registered Reports (peer-reviewed pre-registrations)
+
+In part 3, critically evaluate the tool. What is the promise of this tool in addressing this challenge? What are the biggest obstacles? 
+
+This response paper should be about a page long, single-spaced.

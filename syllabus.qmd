@@ -1,0 +1,54 @@
+---
+title: "Syllabus"
+editor: visual
+---
+
+## Structure of the Class:
+
+Each week we will consider one major type of challenge that we face as scientists, and some tools being developed to address that challenge.
+
+## Participation:
+
+Every week, we will discuss a particular topic and participation includes:
+
+-   Background reading or other materials (e.g. video lectures) that describe the scope of the challenge.
+
+-   An activity or task to develop skills and practical experience with the relevant tools.
+
+The weekly preparation work should take 4-6 hours per week.
+
+Each meeting of the seminar will have some combination of four components:
+
+-   The first 30 min of each class session will be used for 1:1 meetings with course staff and peers. Meetings with course staff will be used to develop final projects. Peer meetings will be used for feedback on final projects, as well as for discussion of the response papers.
+
+-   Full group opening discussion of the week's challenge, particularly including relevant personal experiences.
+
+-   Oral presentations by participants.
+
+-   A discussion of our collective critical evaluation of the week's tool, including opportunities for improvement.
+
+## Required Work:
+
+\
+This is a graduate class. Grades are based on making an authentic genuine effort, and contributing to our joint intellectual development. We do this work well because we care about it, and out of respect for one another. A good faith effort on each aspect of the required work will get full marks. Student grades will be based on four kinds of required work:
+
+1\. Response papers (30pts). Every student every week, due the previous Friday at EOD. Three sections. Total length approximate 1 page, single spaced. In your view, what is the hardest part of this week's challenge? Including any relevant personal experiences you've had. What did you accomplish in the practical activity? How do you critically evaluate the potential of this tool to address this challenge? How will it help scientists / science / the community, and what is still missing? 3 pts per paper (1 for each section). 0 pts for late work. Maximum total points you can earn is 30 (3\*10weeks), scored out of 30.
+
+2\. In class discussions (20 pts). 3pts per week. Must be synchronous. Includes contributions to discussion, giving oral presentations, asking questions after others' oral presentations. As above, up to two weeks can be missed with no penalty.
+
+3\. Oral presentations (20pts). Participants will give oral presentations of the same material and structure as the written response papers, but in more depth. The number of presentations per class, and the number of presentations per participant, will be determined once we know how many people are in the seminar.
+
+4\. Final projects (30pts). Students taking the class for credit will do a final project. There are many options for the format of this project, including an essay on a topic related to the class, or a project developing or applying one of the tools discussed in the class.
+
+## Ethics of the class:
+
+\
+We value mutual respect and trust between teachers and students. I enjoy working hard to teach students who are working hard to learn. I promise to do my best to make the classes engaging, and to adapt to your feedback. I expect you to arrive on time, so you don't disrupt the class, and to devote genuine intellectual energy to the material. This is a discussion-heavy class, and we will sometimes discuss ideas that are controversial. In order to have meaningful dialogue it will therefore be important to do all that we can to make everyone in the class feel comfortable in these discussions. On the first day of class, we will collaboratively generate ground rules for discussion (e.g., 'respect others' lived experiences'). Working together or helping one another on the weekly assignments is definitely encouraged. However, each student needs to produce their own output for the week. For example, if you are tasked to draft a pre-registration, each student should create a unique document. All submitted written work must be 100% your own original writing. Copying sentences or ideas from other students or from any other source is plagiarism. Plagiarism is unfair (to the other students) and disrespectful (to the intellectual challenge of the course), and I take it seriously. For questions, feedback, or issues that come up that are specific to you, please email the instructors.
+
+## Accommodations
+
+We are committed to creating a community where everyone feels supported. If you have special needs or requests for the course, share these with us on the intake form. If these needs change throughout the term, contact us.
+
+## Weekly topics:
+
+Follow [this link](content/index.qmd) to see the weekly topics.

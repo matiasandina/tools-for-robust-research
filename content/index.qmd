@@ -8,5 +8,3 @@ editor: visual
 ---
 
 This class is treats one topic per week.
-
-[Week 1](/content/week-01.qmd)

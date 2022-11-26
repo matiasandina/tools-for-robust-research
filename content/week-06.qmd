@@ -1,0 +1,105 @@
+---
+title: "Week 6"
+subtitle: "Time and effort are wasted by arbitrary gatekeeping"
+editor: visual
+---
+
+## The Tool
+
+Scientists communicate findings through publications in peer-reviewed journals.  However, this process is slow and prone to biases as it relies heavily on existing social networks of scientists. It also relies on the unpaid labor of researchers who are not incentivized to write thorough or well-thought-out reviews, which can lead to inconsistent or unhelpful reviews. Peer review can also be biased by the status, institution, or demographics of the authors.  This process hampers scientific progress. To combat some of these issues, scholars have begun to post pre-prints, which allows researchers to post a copy of their paper at any stage. However, this can lead to public dissemination of findings that have not been confirmed by other scientists. All of this came to a dramatic and explosive point in the controversies about preprints and pandemic research. We will consider challenges associated with peer review, and tools designed to hold on to the good parts while jettisoning the bad. 
+
+[Peer review isn't working](https://everythinghertz.com/159), Everything Hertz Podcast episode 159, with Saloni Dattani.
+
+A twitter thread on [evidence of status bias in peer review](https://twitter.com/BrianNosek/status/1568270176847552512)
+
+A humorous approach to problems with peer review: <https://shitmyreviewerssay.tumblr.com/>
+
+[Time to rethink the publication process in machine learning](https://yoshuabengio.org/2020/02/26/time-to-rethink-the-publication-process-in-machine-learning/), Blog by Yoshua Bengio, 26 Feb 2020
+
+By contrast, an example of the spread of false information in non-peer reviewed sources, is [the infamous Yan report.](https://www.washingtonpost.com/technology/2021/02/12/china-covid-misinformation-li-meng-yan/)
+
+Read over elife's description of their 'new model': <https://elifesciences.org/inside-elife/54d63486/elife-s-new-model-changing-the-way-you-share-your-research> and about their assessment model <https://elifesciences.org/inside-elife/db24dd46/elife-s-new-model-what-is-an-elife-assessment>
+
+Look through [Preprints and Rapid Communication of COVID-19 research](https://asapbio.org/preprints-and-covid-19), a collection of articles and resources by ASAP Bio. 
+
+In sum, peer review is slow, prone to error, potentially biased, and there's no incentive for anyone to do it well; but doing without peer review is also problematic!  In your response paper, describe specific examples of when and why peer review and/or rapid dissemination of results are important for your science, something you learned from the readings you didn't already know, and/or a personal experience you've had that really brought home the challenge of peer review and/or rapid dissemination of results.
+
+------------------------------------------------------------------------
+
+Somewhat older resources:
+
+Vale, R. D. (2015). [Accelerating scientific publication in biology.](https://www.pnas.org/content/112/44/13439)Proceedings of the National Academy of Sciences, 112(44), 13439-13446.
+
+Kaiser J. (2017) [The preprint dilemma.](https://www.science.org/doi/full/10.1126/science.357.6358.1344)Science. 357:1344--1349. 
+
+## The Challenge
+
+### Practical skills assignment
+
+1\. Take fosteropenscience.eu course on [Open Peer Review.](https://www.fosteropenscience.eu/node/2333) Which are advantages and disadvantages of Open peer review versus double blind review? (Here's [a paper about double blind review](https://www.pnas.org/doi/abs/10.1073/pnas.1707323114)). 
+
+2\. eLife as a journal has been experimenting with ways to improve peer review (more information on eLife's explanation of their model [here](https://elifesciences.org/inside-elife/76669134/for-authors-why-publish-with-elife) and [here](https://elifesciences.org/about/peer-review)). What do you think of their approach?  
+
+3\. ASAPBio has been trying to expand preprint review (see blog [here](https://asapbio.org/preprint-reviewer-recruitment-network-phase-2)). Participate in post-publication review of a preprint. Using one of the websites or resources below, or on Twitter or your own blog, comment on, review, endorse, or tweet about a preprint in your field. (Note: the content of these can be positive, along the lines of "What I like about this paper is\..."). Does your experience shed light on the obstacles ASAPbio confronted, in making reform?
+
+4\. Identify a preprint (by you, or by someone you know personally) that was shared on an archive and publicized on social media (e.g. Twitter, etc)  before it was formally published. Did sharing the preprint accelerate the response to the paper? Did the paper change in response to feedback to the preprint, that wasn't provided by a journal?
+
+In your response paper, describe what you did in fulfilling the practical activity, and include a link to your public response/comment. Also discuss any snags you hit.
+
+Then provide a critical evaluation of the tool. How will preprints and post-publication review help address the flaws in the current peer review system? What are the biggest obstacles? 
+
+ 
+
+### Useful links and resources 
+
+Tools for post-publication peer review or commentary on preprints
+
+-   <https://sciety.org/>
+
+-   <https://f1000.com/>
+
+-   <https://peercommunityin.org/>
+
+<!-- -->
+
+-   <https://help.osf.io/hc/en-us/articles/360038856834-Endorse-a-Preprint>
+
+-   <https://pubpeer.com/>
+
+A recent talk by Chris Chambers about registered reports and the tool "Peer Community In": <https://osf.io/mnp6y/?pid=d4fh5>
+
+ 
+
+Other resources for improving preprint and review systems
+
+<https://www.reviewerzero.net/home>
+
+<https://asapbio.org/preprint-reviewer-recruitment-network>
+
+Recommendations for how to talk about preprints in public: [Preprints in the Public Eye.](https://asapbio.org/public)
+
+A collection of ideas and tools for [Tackling information overload: identifying relevant preprints and reviewers](https://asapbio.org/identifying-relevant-preprints-and-reviewers)
+
+One potential tool is a Preprint newsletter, [Front Matter.](https://front-matter.io/newsletter)
+
+Besançon, L., Peiffer-Smadja, N., Segalas, C., Jiang, H., Masuzzo, P., Smout, C., \... & Leyrat, C. (2021). [Open science saves lives: lessons from the COVID-19 pandemic.](https://www.biorxiv.org/content/10.1101/2020.08.13.249847v2.full.pdf)*BMC Medical Research Methodology*, *21*(1), 1-18.
+
+ 
+
+Practical resources for writing peer reviews
+
+<https://plos.org/resource/how-to-write-a-peer-review/>
+
+Peer review week 2021: [https://peerreviewweek.wordpress.com](https://peerreviewweek.wordpress.com/)
+
+And the [youtube channel from previous years of Peer Review Week](https://www.youtube.com/channel/UCbmYfn4oBs5a084aOu-ph-g)
+
+## The Critical Evaluation
+
+The Challenge: Peer review is slow, prone to error, potentially biased, and there's no incentive for anyone to do it well; but doing without peer review is also problematic!  Describe specific examples of when and why peer review and/or rapid dissemination of results are important for your science, something you learned from the readings you didn't already know, and/or a personal experience you've had that really brought home the challenge of peer review and/or rapid dissemination of results.
+
+The tool: describe what you did in fulfilling the practical activity. 
+
+Critical evaluation of the tool: How will preprints and post-publication review help address the flaws in the current peer review system? What are the biggest obstacles? 
+
+This response paper should be about a page long, single-spaced.

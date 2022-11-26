@@ -13,7 +13,7 @@ website:
     left: "&copy; CC-By Rebecca Saxe & Ashley Thomas, 2022"
 
   sidebar:
-    logo: "images/T.png"
+    #logo: "images/T.png"
     pinned: true
     align: center
     tools:
@@ -33,9 +33,21 @@ website:
     contents:
       - href: index.qmd
         text: Welcome
+      - href: syllabus.qmd
+        text: Example Syllabus
       - section: content/index.qmd
         contents:
           - content/week-01.qmd
+          - content/week-02.qmd
+          - content/week-03.qmd
+          - content/week-04.qmd
+          - content/week-05.qmd
+          - content/week-06.qmd
+          - content/week-07.qmd
+          - content/week-08.qmd
+          - content/week-09.qmd
+          - content/week-10.qmd
+
       #- learning-more.qmd
       #- href: transition-from-rmarkdown.qmd
       #  text: Transition from Rmd
