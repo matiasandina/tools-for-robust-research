@@ -3,8 +3,6 @@
     "listing": "/content/index.html",
     "items": [
       "/content/week-01.html",
-      "/content/week-10.html",
-      "/content/week-11.html",
       "/content/week-02.html",
       "/content/week-03.html",
       "/content/week-04.html",
@@ -12,7 +10,9 @@
       "/content/week-06.html",
       "/content/week-07.html",
       "/content/week-08.html",
-      "/content/week-09.html"
+      "/content/week-09.html",
+      "/content/week-10.html",
+      "/content/week-11.html"
     ]
   },
   {

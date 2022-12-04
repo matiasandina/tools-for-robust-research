@@ -4,6 +4,8 @@ listing:
   contents: "week*.qmd"
   type: default
   image-placeholder: "images/T.png"
+  sort:
+     - "date asc"
 editor: visual
 ---
 
