@@ -1,0 +1,65 @@
+---
+title: "Week 9"
+subtitle: "Researchers are incentivized to be first, not right"
+editor: visual
+---
+
+## The Challenge
+
+Historically, academic institutions have mostly rewarded single actors who are the first to publish important or impactful results. Universities hired and promoted scholars based mostly on their publication records.  Agencies, such as the NIH and NSF, evaluated scholars on their publication records. This system incentivized researchers to exaggerate their individual contributions, and potentially to hoard data and hide mistakes, in the interests of competition. It might also have incentivized individual labs and researchers to work alone, even when collaborations could be better for scientific progress. How can we fix the incentives?
+
+Yarkoni, T (2018) [It\'s not the incentives it\'s you](https://www.talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/)
+
+A 5min long [discussion about incentives during promotion and hiring](https://www.youtube.com/watch?v=9AprABg0VH4&t=2471s)from the launch of CORES,  centre for reproducible research at Stanford; minutes 41-46.
+
+How to change incentives: The Wellcome Foundation's ["Guidance" for research organisations on how to implement responsible and fair approaches for research assessment](https://wellcome.org/grant-funding/guidance/open-access-guidance/research-organisations-how-implement-responsible-and-fair-approaches-research).
+
+Should advertising of 'open' behaviors be opt-in or by external audit? Episode of the [Everything Hertz podcast discussing controversy about transparency audits](https://open.spotify.com/episode/29mLuNZblL7PYV02FmMBXK?si=614be578937944d3%20) (start at 3:30)
+
+Tiokhin, L., Yan, M., & Morgan, T. J. (2021). [Competition for priority harms the reliability of science, but reforms can help.](https://www.nature.com/articles/s41562-020-01040-1) Nature human behaviour, 1-11.
+
+## The Tool
+
+## Practical skills activity
+
+1\. Here is the job description for [the open tenure-track position in BCS and Picower.](https://academicjobsonline.org/ajo/jobs/22653) In response to input from last year's class, the language has been updated. What do you think of the current nod to open science? What changes would you recommend?
+
+2\. Look at the BCS and School of Science websites. How could these organizations express commitments to open science that would fulfill e.g. the Wellcome Trust "[guidance](https://wellcome.org/grant-funding/guidance/open-access-guidance/research-organisations-how-implement-responsible-and-fair-approaches-research)"? Suggest language, and where it would go on the website. 
+
+3\. Find a journal that uses [Open Science badges](https://www.cos.io/initiatives/badges), and find a paper that has badges. Do the authors include the corresponding badge on their CV or website? 
+
+4\. Find an author in a discipline close to yours who advertises their open science practices on their CV or personal website. 
+
+## Useful links and resources
+
+[Open science badges](https://www.cos.io/initiatives/badges) And [a discussion on twitter](https://twitter.com/lakens/status/1456506610633805829) about whether badges are a good idea or a bad one. 
+
+Open Research Funder's group:[ Incentivizing the sharing of research outputs through research assessment: a funder implementation blueprint](https://canvas.mit.edu/courses/16735/files/2628370?wrap=1 "ORFG_funder+incentives+blueprint+_final_with_templated_language.docx")[Download Incentivizing the sharing of research outputs through research assessment: a funder implementation blueprint](https://canvas.mit.edu/courses/16735/files/2628370/download?download_frd=1)
+
+Moher, D., Naudet, F., Cristea, I. A., Miedema, F., Ioannidis, J. P., & Goodman, S. N. (2018). [Assessing scientists for hiring, promotion, and tenure.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004089&rev=2) *PLoS biology*, *16*(3), e2004089.
+
+[DORA](https://sfdora.org/)
+
+[Open science at universities](https://osf.io/kgnva/wiki/Universities/), including example language for job applications and policies
+
+The National Academies [Roundtable on Aligning Incentives for Open Science](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science?utm_source=BRDI&utm_campaign=9654e8a95e-EMAIL_CAMPAIGN_2017_08_15_COPY_01&utm_medium=email&utm_term=0_5b187d867a-9654e8a95e-&utm_source=BRDI&utm_campaign=9654e8a95e-EMAIL_CAMPAIGN_2017_08_15_COPY_01&utm_medium=email&utm_term=0_5b187d867a-9654e8a95e-129273345); the [full report](https://canvas.mit.edu/courses/16735/files/2628380?wrap=1 "agenda book-toolkit for fostering open science practices-november 5.pdf")[ Download full report](https://canvas.mit.edu/courses/16735/files/2628380/download?download_frd=1) from their most recent workshop. 
+
+[OurResearch.org](http://ourresearch.org/) has a whole bunch of interesting projects to increase openness, including some specifically about getting [credit for scientific software](https://citeas.org/)and other kinds of impact
+
+[Transparency and Openness Promotion (TOP) ](https://osf.io/9f6gx/)guidelines: resources
+
+An empirical project for [assessing the credibility of research claims, SCORE](https://osf.io/preprints/socarxiv/46mnb/).
+
+Final report of MIT's[Ad Hoc Task Force on Open Access to MIT\'s Research](https://open-access.mit.edu/sites/default/files/OA-Final-Report.pdf) and the announcement of the [Inaugural MIT Prize for Open data.](https://libraries.mit.edu/news/prize-open-data/33342/)
+
+Marder, E. (2017). [Scientific Publishing: Beyond scoops to best practices.](https://elifesciences.org/articles/30076)Elife, 6, e30076.
+
+Alperin, J. P., Nieves, C. M., Schimanski, L. A., Fischman, G. E., Niles, M. T., & McKiernan, E. C. (2019).[Meta-Research: How significant are the public dimensions of faculty work in review, promotion and tenure documents?.](https://elifesciences.org/articles/42254) ELife, 8, e42254
+
+[Tenure policy at MIT](https://policies.mit.edu/policies-procedures/30-faculty-appointment-promotion-and-tenure-guidelines/32-tenure-process)
+
+Singh Chawla, D. (2016). [The unsung heroes of scientific software.](https://www.nature.com/articles/529115a)*Nature News*, *529*(7584), 115.
+
+MIT has a longstanding relationship with an external company called Academic Analytics. But the use of this company's data in academic decision making at other institutions is controversial. Here's the faculty report about the controversy at Rutgers: [Report and Resolution on Use of Academic Analytics](https://nbfc.rutgers.edu/documents/report-and-resolution-use-academic-analytics)
+
+## The Critical Evaluation

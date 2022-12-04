@@ -8,6 +8,12 @@ website:
   repo-url: https://github.com/matiasandina/tools-for-robust-research
   repo-actions: [edit, issue]
 
+  comments:
+    utterances:
+      repo: matiasandina/tools-for-robust-research
+      label: "Comment"
+      theme: github-dark
+
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; CC-By Rebecca Saxe & Ashley Thomas, 2022"
@@ -47,7 +53,7 @@ website:
           - content/week-08.qmd
           - content/week-09.qmd
           - content/week-10.qmd
-
+          - content/week-11.qmd
       #- learning-more.qmd
       #- href: transition-from-rmarkdown.qmd
       #  text: Transition from Rmd
