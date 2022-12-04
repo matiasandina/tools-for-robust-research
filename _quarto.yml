@@ -10,7 +10,7 @@ website:
 
   comments:
     utterances:
-      repo: matiasandina/tools-for-robust-research
+      repo: matiasandina/comments-tools-for-robust-research
       label: "Comment"
       theme: github-dark
 
