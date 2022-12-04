@@ -21,6 +21,90 @@
     "text": "The Critical Evaluation\nThe challenge: Data are wasted, lost and under-used. Describe your perception of this challenge for science. This paragraph might describe, for example, specific examples of when and why data reuse is important for your science, something you learned from the readings you didn’t already know, and/or a personal experience you’ve had that really brought this challenge home. \nThe tool: describe what you did in fulfilling the practical activity. This might also include any snags you hit.\nThen provide a critical evaluation of the tool: What is the promise of this data repositories and data standards in addressing the challenge of lost and wasted data? What are the biggest technical obstacles to data sharing in your subfield? These might include the effort required to develop data standards, to prepare datasets for sharing, or to find data once they have been shared. What are the biggest social obstacles to data sharing in your subfield?"
   },
   {
+    "objectID": "content/week-09.html",
+    "href": "content/week-09.html",
+    "title": "Week 9",
+    "section": "",
+    "text": "Historically, academic institutions have mostly rewarded single actors who are the first to publish important or impactful results. Universities hired and promoted scholars based mostly on their publication records.  Agencies, such as the NIH and NSF, evaluated scholars on their publication records. This system incentivized researchers to exaggerate their individual contributions, and potentially to hoard data and hide mistakes, in the interests of competition. It might also have incentivized individual labs and researchers to work alone, even when collaborations could be better for scientific progress. How can we fix the incentives?\nYarkoni, T (2018) It's not the incentives it's you\nA 5min long discussion about incentives during promotion and hiringfrom the launch of CORES,  centre for reproducible research at Stanford; minutes 41-46.\nHow to change incentives: The Wellcome Foundation’s “Guidance” for research organisations on how to implement responsible and fair approaches for research assessment.\nShould advertising of ‘open’ behaviors be opt-in or by external audit? Episode of the Everything Hertz podcast discussing controversy about transparency audits (start at 3:30)\nTiokhin, L., Yan, M., & Morgan, T. J. (2021). Competition for priority harms the reliability of science, but reforms can help. Nature human behaviour, 1-11."
+  },
+  {
+    "objectID": "content/week-09.html#the-tool",
+    "href": "content/week-09.html#the-tool",
+    "title": "Week 9",
+    "section": "The Tool",
+    "text": "The Tool"
+  },
+  {
+    "objectID": "content/week-09.html#practical-skills-activity",
+    "href": "content/week-09.html#practical-skills-activity",
+    "title": "Week 9",
+    "section": "Practical skills activity",
+    "text": "Practical skills activity\n1. Here is the job description for the open tenure-track position in BCS and Picower. In response to input from last year’s class, the language has been updated. What do you think of the current nod to open science? What changes would you recommend?\n2. Look at the BCS and School of Science websites. How could these organizations express commitments to open science that would fulfill e.g. the Wellcome Trust “guidance”? Suggest language, and where it would go on the website. \n3. Find a journal that uses Open Science badges, and find a paper that has badges. Do the authors include the corresponding badge on their CV or website? \n4. Find an author in a discipline close to yours who advertises their open science practices on their CV or personal website."
+  },
+  {
+    "objectID": "content/week-09.html#useful-links-and-resources",
+    "href": "content/week-09.html#useful-links-and-resources",
+    "title": "Week 9",
+    "section": "Useful links and resources",
+    "text": "Useful links and resources\nOpen science badges And a discussion on twitter about whether badges are a good idea or a bad one. \nOpen Research Funder’s group:Incentivizing the sharing of research outputs through research assessment: a funder implementation blueprintDownload Incentivizing the sharing of research outputs through research assessment: a funder implementation blueprint\nMoher, D., Naudet, F., Cristea, I. A., Miedema, F., Ioannidis, J. P., & Goodman, S. N. (2018). Assessing scientists for hiring, promotion, and tenure. PLoS biology, 16(3), e2004089.\nDORA\nOpen science at universities, including example language for job applications and policies\nThe National Academies Roundtable on Aligning Incentives for Open Science; the full reportDownload full report from their most recent workshop. \nOurResearch.org has a whole bunch of interesting projects to increase openness, including some specifically about getting credit for scientific softwareand other kinds of impact\nTransparency and Openness Promotion (TOP)guidelines: resources\nAn empirical project for assessing the credibility of research claims, SCORE.\nFinal report of MIT’sAd Hoc Task Force on Open Access to MIT's Research and the announcement of the Inaugural MIT Prize for Open data.\nMarder, E. (2017). Scientific Publishing: Beyond scoops to best practices.Elife, 6, e30076.\nAlperin, J. P., Nieves, C. M., Schimanski, L. A., Fischman, G. E., Niles, M. T., & McKiernan, E. C. (2019).Meta-Research: How significant are the public dimensions of faculty work in review, promotion and tenure documents?. ELife, 8, e42254\nTenure policy at MIT\nSingh Chawla, D. (2016). The unsung heroes of scientific software.Nature News, 529(7584), 115.\nMIT has a longstanding relationship with an external company called Academic Analytics. But the use of this company’s data in academic decision making at other institutions is controversial. Here’s the faculty report about the controversy at Rutgers: Report and Resolution on Use of Academic Analytics"
+  },
+  {
+    "objectID": "content/week-09.html#the-critical-evaluation",
+    "href": "content/week-09.html#the-critical-evaluation",
+    "title": "Week 9",
+    "section": "The Critical Evaluation",
+    "text": "The Critical Evaluation"
+  },
+  {
+    "objectID": "content/week-10.html",
+    "href": "content/week-10.html",
+    "title": "Week 10",
+    "section": "",
+    "text": "Most scientific research depends on people working together: from trainees working with a PI in a single lab, to massive consortia of researchers around the globe. Collaborations raise key challenges: who gets credit for the work? Who can re-use the data and code generated by the work? Traditionally, these decisions were made by the PIs. Even the trainees (research assistants, grad students and post-docs) who actually wrote the code and collected the data could only reuse data and code for their own future independent purposes with permission from the PI, and the PI could offer the data and code to new lab members to continue the project, at the PI’s discretion. Both larger-scale collaborations, and mandates to make data and code openly accessible, reduce PIs’ ability to control (re)use, potentially dramatically increasing the value of scientific products, but also potentially dramatically increasing the risks that these products would be (re)-used in ways that the original PI finds scientifically invalid, ethically troubling, and/or unstrategic for the trainees the PI most wants to protect. In this way, openness might undermine the ability of PIs to protect what they value: both ethics and people. Can tools help?\n \nGewin, V. (2021). ‘We need to talk’: ways to prevent collaborations breaking down. Nature, 594(7863), 462-463.\nGadlin H & Jesssar K. NIH Office of Research Integrity. Preempting Discord: Prenuptial Agreements for ScientistsLinks to an external site.\nA wild case study of a dispute over data ownership that had to be adjudicated by the journal editors: Fox, P. T., Bullmore, E., Bandettini, P. A., & Lancaster, J. L. (2009). Protecting peer review: Correspondence chronology and ethical analysis regarding Logothetis vs. Shmuel and Leopold. Human brain mapping, 30(2), 347-354.\nHalchenko, Y. O., & Hanke, M. (2015). Four aspects to make science open \"by design\" and not as an after-thought.GigaScience, 4(1), s13742-015.\nA podcast episode about collaboration(start at ~9 minutes): https://open.spotify.com/episode/21zhLxwM946cIh4H4lxW87?si=r2P1xkuKSeqm74IDxPgoQQ&nd=1Links to an external site.\nRuss Poldrack’s lab guide, new section on Intellectual Property"
+  },
+  {
+    "objectID": "content/week-10.html#the-tool",
+    "href": "content/week-10.html#the-tool",
+    "title": "Week 10",
+    "section": "The Tool",
+    "text": "The Tool"
+  },
+  {
+    "objectID": "content/week-10.html#collaboration-agreements-and-licenses",
+    "href": "content/week-10.html#collaboration-agreements-and-licenses",
+    "title": "Week 10",
+    "section": "Collaboration agreements and licenses ",
+    "text": "Collaboration agreements and licenses \n\nPractical Assignment:\n1. Read the MIT VPR’s guidelines on Authorship, Data Ownership, and Training and the policies on Copyright for PhD theses (you may have to scroll down to find it). VPR is responsible for handling any formal disputes about these issues. Is there any information here you didn’t know? That you think more people should know? What do you think of these policies?\n2. Check your lab’s documentation (lab manual, mentorship agreements). Is there an explicit discussion of how data, tools, scripts etc. can be used? Does it specifically address what should happen after researchers are no longer affiliated with the lab? You can compare to the “useful resources” we have linked below, for reference. Share what you find. \n3. Draft text for (i) your own future lab’s guide or manual, (ii) your current lab’s manual or guide, or (iii)  your own ‘departing the lab’ agreement with your current PI. Try to specify which kinds of scientific products are created in the collaboration, who has the rights to re-use them (first author? all authors? creator? PI?), who has to give approval for that use (first author? all authors? PI?), and whether there are any time limits on those obligations. Will you share materials you create with specific licenses? Which license will you use and why?\n \n \n\n\nUseful resources and links:\nCollaborations: defining roles and rights\nManyBabies projects Collaborations - Definitions, responsibilities, expectationsDownload Definitions, responsibilities, expectations-- Version 2.0\nManyBabies Policies on Derived Projects and PresentationsLinks to an external site.\nNational Cancer Institute’s Field Guide to Team ScienceLinks to an external site.\nSusan Perlman’s “Departing Lab Member” formDownload form\nUK data service: Data management roles and responsibilities. \nBelmont Forum Step-By-Step User Guide for Building a Successful Data Management PlanLinks to an external site.\n \nAly, M. (2018). The key to a happy lab life is in the manual.Nature, 561(7721), 7-8.\nLarivière, V., Pontille, D., & Sugimoto, C. R. (2021). Investigating the division of scientific labor using the Contributor Roles Taxonomy (CRediT). Quantitative Science Studies, 2(1), 111-128.\nForscher, P. S., Wagenmakers, E., Coles, N. A., Silan, M. A., Dutra, N. B., Basnight-Brown, D., & IJzerman, H. (2020, May 20). The Benefits, Barriers, and Risks of Big Team Science. PsyArXiv.\nMaking the Right Moves: A Practical Guide to Scientifıc Management for Postdocs and New Faculty, by Burroughs Wellcome Fund Howard Hughes Medical Institute (2006); Chapter 12: SETTING UP COLLABORATIONSLinks to an external site.\n \nPrimack et al (2019) Co-authors gone bad – how to avoid publishing conflicts\n \nLicensing\nGuide to choosing a creative commons licenseLinks to an external site.\nOpen Knowledge Foundation: Guide to Open Data LicensingLinks to an external site.\nBelmont forum: Data Management Best Practices & Standards: LicensingLinks to an external site.\nOSF guide to choosing a license for pre-registrationLinks to an external site.\nEthical licensesLinks to an external site.\nCoalition S Rights Retention strategy: all research articles which arise from funding from a cOAlition S Organisation must be licensed CC BY. And a long blog post that aims to explain RRS."
+  },
+  {
+    "objectID": "content/week-10.html#the-critical-evaluation",
+    "href": "content/week-10.html#the-critical-evaluation",
+    "title": "Week 10",
+    "section": "The Critical Evaluation",
+    "text": "The Critical Evaluation\nWhat are the challenges involved in managing who can re-use the products of scientific research, and when, and for what? Do you have any personal experience, or stories you have heard, about conflicts arising from different expectations or desires, with regards to (re)use of data or code or tasks? Particularly after a trainee has left an original lab? Could better lab guides and/or explicit agreements help solve this problem?\n(1) What did you learn about MIT’s policies and procedures? (2) What information did you find for your current lab? (3) Share the text you wrote for a lab guide or departing the lab agreement. \nTo what degree can these tools address the challenge?"
+  },
+  {
+    "objectID": "content/week-11.html",
+    "href": "content/week-11.html",
+    "title": "Week 11",
+    "section": "",
+    "text": "Throughout the history of academia, people who hold marginalized identities, including those based on race, ethnicity, gender, LGBTQ status, and disability status, are underrepresented in faculty, post-doctoral, and graduate researcher positions (compared to both the U.S. population and the undergraduate population of colleges and universities).  The problem of underrepresentation goes beyond statistics about employment, many have argued that communities within science, including the open-science community, silence and exclude people with marginalized identities, including BIPOC scholars, women, those with disabilities, those who do not speak English etc.\nMatias JN, Lewis Jr N, Hope E (2021) Universities Say They Want More Diverse Faculties. So Why Is Academia Still So White? FiveThirtyEight\nNarrow hiring practices at US universities revealed  (if interested, accompanying paper: https://www.nature.com/articles/s41586-022-05222-x)\nGraduate student enrollment and time to degree by department at MIT. \nPownall, M., Talbot, C. V., Henschel, A., Lautarescu, A., Lloyd, K. E., Hartmann, H., ... & Siegal, J. (2021). Navigating Open Science as Early Career Feminist Researchers.Psychology of Women Quarterly.\nProblems with parachute science in the Global South, from Science Friday\nCrew B (2020) Women and minority researchers have more original ideas, but white men are rewarded faster.Nature Index."
+  },
+  {
+    "objectID": "content/week-11.html#the-tool",
+    "href": "content/week-11.html#the-tool",
+    "title": "Week 11",
+    "section": "The Tool",
+    "text": "The Tool\n\nPractical skills assignment.\n1. Do a diversity audit for the syllabus of this class, This is a machine-readable bibliography of the main texts: Tools_2022.txtDownload Tools_2022.txt, and for a bibliography in a paper by you or from your lab.  One option for code and instructions here (you may need this file as well because it checks it against a manuscript: main-1.tex) or another version is here\n2. Suggest one replacement for an assigned reading or resource that would increase the diversity of authors in this class’s syllabus in terms of gender, race/ethnicity, geography or institution, e.g. researchers working in the global south or at HBCUs (Historically black colleges and universities).\n3. Find a paper you could cite in your next paper, that is topically relevant and would increase the diversity of authors in your bibliography, by gender, race/ethnicity, geography, or institution. \n4. Read PANNING pdf, practice at least one of the ‘engaging skills’ at the end of the pdf, in a meeting, class, or on Twitter etc. PANNING Excercise.pdf. \n5. Look into the DEI work that MIT and BCS are doing, by looking at the BCS DEIJ website, the school of science website, the ICEO website, and/or the institutional research dashboard.  Did you find anything surprising? Programs or resources you wish more people knew about? Anything that should be there but isn’t?\n\n\nUseful links and other sources.\nhttps://www.academics4blacklives.com/\nA different tool for audits, the Google chrome extension\nDEIJ offices can’t be effective if they aren’t empowered.Inside Higher Ed.\nRISE(Reject Injustice through Student Empowerment) is an MIT group whose mission is to fight racism, sexism, and other forms of injustice on our campus to guarantee the right to a safe working and educational environment free of harassment, discrimination, and abuse.\nSubbaraman, N. (2020). How# BlackInTheIvory put a spotlight on racism in academia.Nature, 582(7812), 327-328.\nLantsoght, E. O., Tse Crepaldi, Y., Tavares, S. G., Leemans, K., & Paig-Tran, E. W. (2021). Challenges and Opportunities for Academic Parents During COVID-19.Frontiers in Psychology, 3353."
+  },
+  {
+    "objectID": "content/week-11.html#the-critical-evaluation",
+    "href": "content/week-11.html#the-critical-evaluation",
+    "title": "Week 11",
+    "section": "The Critical Evaluation",
+    "text": "The Critical Evaluation\nHow have you personally observed or experienced the challenges described in the resources for this week? What did you learn from these resources that you didn’t know before? \nWhat did you learn from your audits of the class syllabus, and your own bibliography? How did you feel about the exercise of looking for new sources to cite? Was the task difficult or uncomfortable? Did PANNing give you any new insights? Did you learn something new about MIT, SoS, and BCS programs?\nWill audits and conscious efforts be effective in creating scientific communities that are more open to contributions and scrutiny from all people, regardless of accidents of birth? What are the limits of these tools and what other change do we need?"
+  },
+  {
     "objectID": "content/week-05.html",
     "href": "content/week-05.html",
     "title": "Week 5",
@@ -40,6 +124,41 @@
     "title": "Week 5",
     "section": "The Critical Evaluation",
     "text": "The Critical Evaluation\nThe Challenge: Incorrect information or interpretations can be introduced into the literature and persist for a while; but ideally, these errors will be found and weeded out. This paragraph could describe something specific you learned from the readings you didn’t already know, and/or a personal experience you’ve had that really brought home the challenge of science as self-correcting.\nThe tool: Describe what you did in fulfilling this activity. What snags did you hit? What made this process easier or more difficult? Did you find any errors?\n\nDownload RStudio and complete the RMarkDown lessons. Try producing a figure from data you’ve collected or data from your lab. If you don’t have access to such data, find an openly shared RMarkDown document and reproduce a figure from that paper.\nDownload Zotero if you don’t already have it, and check for retracted papers. If none are flagged, add a retracted paper from Retraction Watch and see if Zotero correctly flags it as retracted. Is this flag noticeable enough to be a useful tool in preventing use of retracted papers?\n\nCritical evaluation of the tool. What is the promise of this tool in addressing this challenge? What are the biggest obstacles? \nThis response paper should be about a page long, single-spaced."
+  },
+  {
+    "objectID": "content/week-08.html",
+    "href": "content/week-08.html",
+    "title": "Week 8",
+    "section": "",
+    "text": "The modern scientific paper has not changed in the past two hundred years.  New technologies such as high-speed internet allow for embedding dynamic interfaces, audio, video, and other graphics into our scientific communication. And the increasing complexity of scientific protocols and analyses might be best communicated with all these extra modalities. Yet the way we communicate research findings is based on a system created when most people typed manuscripts on a typewriter and mailed physical copies of their manuscripts to editors and reviewers. This has resulted in science communication that relies on written text that is full of jargon, acronyms, and is constrained by word, figure and space limits. The scientific content in journal articles is accessible only to experts, if them. How can we make science more accessible to a broader public, including non-expert readers from neighboring disciplines, students and the public with varying levels of expertise? What is the role of graphic design, visual communication, and other ‘non-traditional’ modes of scientific communication in our work?\nRead the following articles:\nSpitzer S (2018) Five Principles of Science Communication. From SocialScienceSpace blog. \nKhoury, C. K., Kisel, Y., Kantar, M., Barber, E., Ricciardi, V., Klirs, C., ... & Novy, A. (2019). Science–graphic art partnerships to increase research impact.Communications biology, 2(1), 1-5.\nHohman F t al (2020)  Communicating with Interactive Articles10.23915/distill.00028; And explore some of the examples: https://explorablemultiverse.github.io/# Use the underlined blue text to see how the graphs etc change with different analysis choices. (It works better if you ‘switch to distill layout’.)\nChiarella, D., Yarbrough, J., & Jackson, C. A. L. (2020). Using alt text to make science Twitter more accessible for people with visual impairments.Nature Communications, 11(1), 1-3.\nA beautiful museum exhibit about neurons and the 2019 Winner of Dance your PhD"
+  },
+  {
+    "objectID": "content/week-08.html#the-tool",
+    "href": "content/week-08.html#the-tool",
+    "title": "Week 8",
+    "section": "The Tool",
+    "text": "The Tool"
+  },
+  {
+    "objectID": "content/week-08.html#practical-skills-assignment",
+    "href": "content/week-08.html#practical-skills-assignment",
+    "title": "Week 8",
+    "section": "Practical skills assignment",
+    "text": "Practical skills assignment\n1. Look at a science graphics website, like biorender. Is there an image that would help you communicate your own research in clear and appealing graphics?\n2. Find a non-traditional format for scientific communication (one of: an interactive Notebook, a cartoon paper, a video abstract, ‘two minute paper’, a podcast, an oral story, twitter thread, dance, OR a blog post), and the associated paper. Give an example of something that is communicated more clearly in the non-traditional format. \n3. Find a figure or image on your, or your lab’s, website or social media feed that doesn’t have Alt Text (image description). Draft good Alt Text(or actually add it!)\n4. For a paper you know well, draft one of: an interactive executable paper, a cartoon paper, a video abstract, ‘two minute paper’, a podcast, an oral story, twitter thread OR a blog post. This can be a draft; you’re not required to make a finished project. Attach your product with your response paper. Explicitly say, who is your intended audience."
+  },
+  {
+    "objectID": "content/week-08.html#useful-links-and-resources",
+    "href": "content/week-08.html#useful-links-and-resources",
+    "title": "Week 8",
+    "section": "Useful links and resources",
+    "text": "Useful links and resources\nSeeing Social Science Bites Podcasts In A New Way​​\nJournal of visualized experiments. \nOU Library guide for making a successful video abstract: https://libraries.ou.edu/content/make-video-abstract-your-research\nRepository of many video abstracts\nThe leading strand: mission is to highlight important research by translating it through visual experiences.\nProfessional Science Communication: https://www.beyondboundscreative.com/; \nhttps://significantcommunication.eu/\nhttps://twitter.com/econimate- communicates economics papers in single frame cartoons. \nAn example of Scientific communication as sequential art.vs. Collective dynamics of ‘small world’ networksoriginal paper\nTwo minute papers, a youtube channel for AI: https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg\nAAAS Communication Toolkit, a guide to communicating scientific results in different registers and media\nStory Collider, true personal stories about science. \nhttps://scienceblogs.com\nDance your PhD\nSuper cool communication mechanism: Nutshell(h/t Joyce)\nA (failed?) attempt to incentivize better visualization and explanations: Distill(h/t Peng)\nWhat not to do: Scientific diagrams that look like shitposts (h/t Joyce)\nKatelyn M. Baumer, Juan J. Lopez, Surabi V. Naidu, Sanjana Rajendran, Miguel A. Iglesias, Kathleen M. Carleton, Cheyanne J. Eisenmann, Lillian R. Carter, Bryan F. Shaw. Visualizing 3D imagery by mouth using candy-like models.Science Advances, 2021; 7 (22): eabh0691\nNwagwu, W.E., & Onyancha, B., Back to the Beginning — The Journal is Dead, Long Live Science, The Journal of Academic Librarianship (2015), http://dx.doi.org/10.1016/j.acalib.2015.06.005"
+  },
+  {
+    "objectID": "content/week-08.html#the-critical-evaluation",
+    "href": "content/week-08.html#the-critical-evaluation",
+    "title": "Week 8",
+    "section": "The Critical Evaluation",
+    "text": "The Critical Evaluation"
   },
   {
     "objectID": "content/week-01.html",
@@ -67,7 +186,7 @@
     "href": "content/index.html",
     "title": "Class Contents",
     "section": "",
-    "text": "This class is treats one topic per week.\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nWhat are we trying to do here?\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 2\n\n\nData are wasted, lost and under-used.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 3\n\n\nExperiments cannot be reproduced by other labs.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 4\n\n\nThe literature is biased.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 5\n\n\nMistakes go uncaught and uncorrected.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 6\n\n\nTime and effort are wasted by arbitrary gatekeeping\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 7\n\n\nResults are only accessible to very rich institutions.\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "This class is treats one topic per week.\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nWhat are we trying to do here?\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 10\n\n\nManaging the use of scientific products\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 11\n\n\nIdeas and scrutiny from some people are undervalued\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 2\n\n\nData are wasted, lost and under-used.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 3\n\n\nExperiments cannot be reproduced by other labs.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 4\n\n\nThe literature is biased.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 5\n\n\nMistakes go uncaught and uncorrected.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 6\n\n\nTime and effort are wasted by arbitrary gatekeeping\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 7\n\n\nResults are only accessible to very rich institutions.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 8\n\n\nScientific papers are obsolete.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nWeek 9\n\n\nResearchers are incentivized to be first, not right\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "content/week-04.html",
