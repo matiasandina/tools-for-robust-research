@@ -10,25 +10,25 @@ A defining feature of scientific knowledge is that it is replicable: another sci
 
 **Everyone**
 
-Nosek, B. A., & Errington, T. M. (2020). [The best time to argue about what a replication means? Before you do it. Links to an external site.](https://www.nature.com/articles/d41586-020-02142-6?sf236176533=1)Nature 583, 518-520 
+Nosek, B. A., & Errington, T. M. (2020). [The best time to argue about what a replication means? Before you do it.](https://www.nature.com/articles/d41586-020-02142-6?sf236176533=1) Nature 583, 518-520 
 
-Teytelman, L (2018) [No more excuses for non-reproducible methods. Links to an external site.](https://www.nature.com/articles/d41586-018-06008-w) Nature 560, 411. Or watch a recent (2021) talk (the beginning is funny/sad):
+Teytelman, L (2018) [No more excuses for non-reproducible methods.](https://www.nature.com/articles/d41586-018-06008-w) Nature 560, 411. Or watch a recent (2021) talk (the beginning is funny/sad):
 
 {{< video https://www.youtube.com/embed/pjWlA4JXm64 >}}
 
 **Biological sciences**
 
-Errington, T. M. (2019) Slides for [Reproducibility Project: Cancer Biology, Barriers to Replicability in the Process of Research.](https://canvas.mit.edu/courses/16735/files/2628356?wrap=1 "Errington_Metascience2019_9_5_2019.pptx")[Download Reproducibility Project: Cancer Biology, Barriers to Replicability in the Process of Research.](https://canvas.mit.edu/courses/16735/files/2628356/download?download_frd=1) Talk at MetaScience conference.
+Errington, T. M. (2019) Slides for [Reproducibility Project: Cancer Biology, Barriers to Replicability in the Process of Research.](https://canvas.mit.edu/courses/16735/files/2628356?wrap=1 "Errington_Metascience2019_9_5_2019.pptx") Talk at MetaScience conference.
 
 {{< video https://www.youtube.com/embed/KZnOUac3dUw >}}
 
 **Systems Neuroscience**
 
-Banga, K., Benson, J., Bonacchi, N., Bruijns, S. A., Campbell, R., Chapuis, G. A., \... & Winter, O. (2022). [Reproducibility of in-vivo electrophysiological measurements in mice Links to an external site.](https://www.biorxiv.org/content/10.1101/2022.05.09.491042v3). *bioRxiv*. 
+Banga, K., Benson, J., Bonacchi, N., Bruijns, S. A., Campbell, R., Chapuis, G. A., \... & Winter, O. (2022). [Reproducibility of in-vivo electrophysiological measurements in mice](https://www.biorxiv.org/content/10.1101/2022.05.09.491042v3). *bioRxiv*. 
 
 **Computational science**
 
-Barton, CM et al (2022) [How to make models more useful. Links to an external site.](https://www.pnas.org/doi/10.1073/pnas.2202112119)PNAS 119 (35) e2202112119
+Barton, CM et al (2022) [How to make models more useful.](https://www.pnas.org/doi/10.1073/pnas.2202112119)PNAS 119 (35) e2202112119
 
 Pineau, J. (2020) [The Machine Learning Reproducibility ChecklistLinks to an external site.](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)
 
@@ -36,17 +36,17 @@ Pineau, J. (2020) [The Machine Learning Reproducibility ChecklistLinks to an ext
 
 Gilmore, R. O., & Adolph, K. E. (2017). Video can make behavioural science more reproducible. *Nature human behaviour*, *1*(7), 1-2. [https://www.nature.com/articles/s41562-017-0128Links to an external site.](https://www.nature.com/articles/s41562-017-0128)
 
-Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., \... & Yurovsky, D. (2017). [A collaborative approach to infant research: Promoting reproducibility, best practices, and theory‐building Links to an external site.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/infa.12182). *Infancy*, *22*(4), 421-435. or watch this talk by Mike Frank
+Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., \... & Yurovsky, D. (2017). [A collaborative approach to infant research: Promoting reproducibility, best practices, and theory‐building](https://onlinelibrary.wiley.com/doi/pdf/10.1111/infa.12182). *Infancy*, *22*(4), 421-435. or watch this talk by Mike Frank
 
 {{< video https://www.youtube.com/embed/6KA69DlsYMI >}}
 
 **Social Science**
 
-Moody, J. W., Keister, L. A., & Ramos, M. C. (2022). [Reproducibility in the Social Sciences. Links to an external site.](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-090221-035954) *Annual Review of Sociology*, *48*. [SO48CH21_Moody\[001-021\].pdf](https://canvas.mit.edu/courses/16735/files/2733004?wrap=1 "SO48CH21_Moody[001-021].pdf")
+Moody, J. W., Keister, L. A., & Ramos, M. C. (2022). [Reproducibility in the Social Sciences.](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-090221-035954) *Annual Review of Sociology*, *48*. [SO48CH21_Moody\[001-021\].pdf](https://canvas.mit.edu/courses/16735/files/2733004?wrap=1 "SO48CH21_Moody[001-021].pdf")
 
 ## The Tool
 
-### Practical Assignment: 
+### Practical Assignment:
 
 1\. Find a paper in your field which describes an experiment. Use the ARRIVE and CONSORT checklist to evaluate how well they communicate their methods and design decisions. What is missing? Note any trouble you have applying these checklists to research in your area.
 
@@ -58,7 +58,7 @@ In your response paper, describe what you accomplished in these tasks, and any s
 
 Then, critically evaluate these tools: will they address the obstacles to repeatability in your area of science? What else is needed?
 
-### Useful links and resources 
+### Useful links and resources
 
 Tools for shared protocols:
 
@@ -108,15 +108,15 @@ Tools for shared protocols:
 
 -   [Interview with Teytelman](https://theplosblog.plos.org/2021/03/interview-protocols-io/) where he talks about the obstacles to uptake of protocols.io
 
--   [A slate article about how personal and ugly Links to an external site.](https://slate.com/technology/2014/07/replication-controversy-in-psychology-bullying-file-drawer-effect-blog-posts-repligate.html)the controversies about replication can get. This story is about a psychology experiment about moral priming, and the controversy was called "#repligate". 
+-   [A slate article about how personal and ugly](https://slate.com/technology/2014/07/replication-controversy-in-psychology-bullying-file-drawer-effect-blog-posts-repligate.html) the controversies about replication can get. This story is about a psychology experiment about moral priming, and the controversy was called "#repligate". 
 
 -   More than twenty years ago there was a very famous controversy about the replicability of findings in genetically identical mice.
 
-    -   [Original paper. ](https://www.science.org/doi/full/10.1126/science.284.5420.1670?casa_token=D1uKhTqWSyQAAAAA%3AuU3axsIOKE8c1Y3d1b636WguDZHGWwCFw6eaY-SHEIX5ae3VwSIBN-rOg1xhEf3s_QTWEcRvBQQiRQ)
+    -   [Original paper.](https://www.science.org/doi/full/10.1126/science.284.5420.1670?casa_token=D1uKhTqWSyQAAAAA%3AuU3axsIOKE8c1Y3d1b636WguDZHGWwCFw6eaY-SHEIX5ae3VwSIBN-rOg1xhEf3s_QTWEcRvBQQiRQ)
 
     -   [Follow-up paper.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/neu.10173)
 
--   Freedman, L. P., Cockburn, I. M., & Simcoe, T. S. (2015). [The economics of reproducibility in preclinical research. Links to an external site.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002165)*PLoS biology*, *13*(6), e1002165.
+-   Freedman, L. P., Cockburn, I. M., & Simcoe, T. S. (2015). [The economics of reproducibility in preclinical research.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002165) *PLoS biology*, *13*(6), e1002165.
 
 -   Ashley's example (in progress): [Conducting Online Research With Infants](https://www.protocols.io/view/conducting-online-research-with-infants-byjapuie)  
 

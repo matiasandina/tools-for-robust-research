@@ -48,7 +48,7 @@ In part 2 of your response paper, describe what you did, in fulfilling the pract
 
 [A guide to registered reports](https://www.cos.io/initiatives/registered-reports)
 
-Wieschowski, S., Laser, H., Sena, E. S., Bleich, A., Tolba, R., & Strech, D. (2020). [Attitudes towards animal study registries and their characteristics: An online survey of three cohorts of animal researchers. ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226443)PloS one, 15(1), e0226443.
+Wieschowski, S., Laser, H., Sena, E. S., Bleich, A., Tolba, R., & Strech, D. (2020). [Attitudes towards animal study registries and their characteristics: An online survey of three cohorts of animal researchers.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226443) PloS one, 15(1), e0226443.
 
 Pre-registration:
 
@@ -104,9 +104,8 @@ In part 2, describe what you did in using the tool: Pre-registered analysis pipe
 
 -   Finding a pre-registered paper in your field, including where the pre-registration was stored, how easy it was to find from the paper, if the authors followed their pre-registration, and if they made clear where they deviated.
 
-```{=html}
 <!-- -->
-```
+
 -   Spending 30 minutes working on an outline/draft of a pre-registration of your own
 
 -   Identify a journal in your field that accepts submissions of Registered Reports (peer-reviewed pre-registrations)
